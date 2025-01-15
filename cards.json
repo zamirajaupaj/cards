@@ -1531,7 +1531,7 @@
           }
         },
         {
-          "id": 90,
+          "id": 91,
           "front": {
             "name": "Ben Cabanas",
             "role": "Director, AGS APJ Technology",
@@ -1599,7 +1599,7 @@
           }
         },
         {
-          "id": 85,
+          "id": 95,
           "front": {
             "name": "Juan-Carlos Gutierrez",
             "role": "Mng Director,LATAM Tech&Innov",
@@ -1667,7 +1667,7 @@
           }
         },
         {
-          "id": 98,
+          "id": 99,
           "front": {
             "name": "Claire Bourke",
             "role": "Head of CSM, ANZ",
@@ -1805,5 +1805,4 @@
       ]
     }
     
-
 
