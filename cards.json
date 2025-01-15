@@ -1,38 +1,344 @@
 {
   "cards": [
-      {
-          "id": 1,
-          "front": {
-              "name": "John Anderson",
-              "role": "Solutions Architecture Leader",
-              "logo": "AWS",
-              "quote": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features."
-          },
-          "back": {
-              "lesson": "Throughout my journey in cloud architecture, I've learned that simplicity is the ultimate sophistication. The most elegant solutions are often the ones that are easiest to understand and maintain.",
-              "advice": [
-                  "Always start with the customer and work backwards. Understanding their needs deeply will guide you to the right technical decisions.",
-                  "Embrace automation from day one. What seems manageable manually today will become your biggest bottleneck tomorrow.",
-                  "Build with failure in mind. In distributed systems, failures are inevitable. Design your architecture to be resilient."
-              ]
-          }
+    {
+      "id": 1,
+      "front": {
+        "name": "Sarah Miller",
+        "role": "Cloud Security Architect",
+        "logo": "AWS",
+        "quote": "Security is not a feature you add later - it's a fundamental aspect of every decision you make."
       },
-      {
-          "id": 2,
-          "front": {
-              "name": "Sarah Miller",
-              "role": "Cloud Security Architect",
-              "logo": "AWS",
-              "quote": "Security is not a feature you add later - it's a fundamental aspect of every decision you make."
-          },
-          "back": {
-              "lesson": "The most important lesson I've learned is that security should be built into the foundation of every system, not added as an afterthought.",
-              "advice": [
-                  "Always implement the principle of least privilege.",
-                  "Automate your security controls and monitoring.",
-                  "Regular security audits are your best friend."
-              ]
-          }
+      "back": {
+        "lesson": "The most important lesson I've learned is that security should be built into the foundation of every system, not added as an afterthought.",
+        "advice": [
+          "Always implement the principle of least privilege",
+          "Automate your security controls and monitoring",
+          "Regular security audits are your best friend"
+        ]
       }
+    },
+    {
+      "id": 2,
+      "front": {
+        "name": "James Chen",
+        "role": "Solutions Architecture Leader",
+        "logo": "AWS",
+        "quote": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features."
+      },
+      "back": {
+        "lesson": "Throughout my journey in cloud architecture, I've learned that simplicity is the ultimate sophistication. The most elegant solutions are often the ones that are easiest to understand and maintain.",
+        "advice": [
+          "Start with the customer and work backwards",
+          "Embrace automation from day one",
+          "Build with failure in mind"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "front": {
+        "name": "Maria Rodriguez",
+        "role": "DevOps Principal Engineer",
+        "logo": "AWS",
+        "quote": "The speed of your deployment pipeline is directly proportional to your ability to innovate."
+      },
+      "back": {
+        "lesson": "Automation isn't just about efficiency; it's about creating reliable, repeatable processes that free your team to focus on innovation.",
+        "advice": [
+          "Automate everything that happens more than twice",
+          "Implement CI/CD from the start",
+          "Monitor and measure everything"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "front": {
+        "name": "David Kumar",
+        "role": "Cloud Cost Optimization Lead",
+        "logo": "AWS",
+        "quote": "Every dollar saved in cloud costs is a dollar that can be reinvested in innovation."
+      },
+      "back": {
+        "lesson": "Cost optimization is an ongoing journey, not a one-time exercise. It requires continuous monitoring, analysis, and adjustment.",
+        "advice": [
+          "Use AWS Cost Explorer regularly",
+          "Implement proper tagging strategy",
+          "Right-size your resources"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "front": {
+        "name": "Emily Thompson",
+        "role": "Serverless Champion",
+        "logo": "AWS",
+        "quote": "Don't spend time managing servers when you could be building features that matter to your customers."
+      },
+      "back": {
+        "lesson": "Serverless isn't just about Lambda functions; it's about focusing on business logic and letting AWS handle the infrastructure.",
+        "advice": [
+          "Think in terms of events and triggers",
+          "Design for distributed systems",
+          "Embrace managed services"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "front": {
+        "name": "Michael Brown",
+        "role": "Database Solutions Architect",
+        "logo": "AWS",
+        "quote": "Choose the right database for the right job - one size doesn't fit all."
+      },
+      "back": {
+        "lesson": "Understanding your data access patterns is crucial before choosing a database service. It's easier to make the right choice early than to migrate later.",
+        "advice": [
+          "Analyze your access patterns first",
+          "Consider future scaling needs",
+          "Plan for data migration early"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "front": {
+        "name": "Lisa Wong",
+        "role": "ML/AI Practice Lead",
+        "logo": "AWS",
+        "quote": "The quality of your machine learning model is only as good as the data you feed it."
+      },
+      "back": {
+        "lesson": "Success in ML projects depends more on data quality and preparation than on algorithm selection.",
+        "advice": [
+          "Invest heavily in data preparation",
+          "Start simple and iterate",
+          "Focus on model monitoring and maintenance"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "front": {
+        "name": "Robert Martinez",
+        "role": "Network Architecture Lead",
+        "logo": "AWS",
+        "quote": "A well-designed network is like a good referee - it enables the game but stays invisible."
+      },
+      "back": {
+        "lesson": "Network design in the cloud requires a balance between security, performance, and cost. Always plan for growth and failure scenarios.",
+        "advice": [
+          "Design for high availability",
+          "Implement proper network segmentation",
+          "Monitor network bottlenecks"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "front": {
+        "name": "Anna Kowalski",
+        "role": "Disaster Recovery Specialist",
+        "logo": "AWS",
+        "quote": "Hope for the best, but always plan for the worst."
+      },
+      "back": {
+        "lesson": "The time to plan for disaster recovery is not during a disaster. Regular testing and documentation are crucial.",
+        "advice": [
+          "Test your DR plans regularly",
+          "Document everything thoroughly",
+          "Automate recovery procedures"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "front": {
+        "name": "Thomas Anderson",
+        "role": "Container Services Expert",
+        "logo": "AWS",
+        "quote": "Containers are not just about packaging; they're about predictability and consistency."
+      },
+      "back": {
+        "lesson": "Containerization is most powerful when combined with proper orchestration and monitoring strategies.",
+        "advice": [
+          "Use container-specific security tools",
+          "Implement proper image management",
+          "Design for scalability"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "front": {
+        "name": "Sarah O'Connor",
+        "role": "IoT Solutions Architect",
+        "logo": "AWS",
+        "quote": "In IoT, every device is a potential security risk and every data point is an opportunity."
+      },
+      "back": {
+        "lesson": "Success in IoT requires thinking about the entire data lifecycle, from collection to analysis to archival.",
+        "advice": [
+          "Secure devices from day one",
+          "Plan for data storage growth",
+          "Consider edge computing options"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "front": {
+        "name": "Kevin Patel",
+        "role": "Migration Specialist",
+        "logo": "AWS",
+        "quote": "Migration is a journey, not a lift-and-shift exercise."
+      },
+      "back": {
+        "lesson": "Successful cloud migration requires equal attention to technology, processes, and people.",
+        "advice": [
+          "Assess before migrating",
+          "Train your team early",
+          "Migrate in phases"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "front": {
+        "name": "Rachel Green",
+        "role": "Well-Architected Lead",
+        "logo": "AWS",
+        "quote": "Excellence is not an act, but a habit in architecture."
+      },
+      "back": {
+        "lesson": "Following the Well-Architected Framework isn't about ticking boxes; it's about building a culture of excellence.",
+        "advice": [
+          "Review architectures regularly",
+          "Document design decisions",
+          "Balance all five pillars"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "front": {
+        "name": "Daniel Kim",
+        "role": "Performance Optimization Lead",
+        "logo": "AWS",
+        "quote": "Performance is a feature that should be continuously delivered."
+      },
+      "back": {
+        "lesson": "Performance optimization is an iterative process that requires good baseline metrics and continuous monitoring.",
+        "advice": [
+          "Establish clear performance metrics",
+          "Use load testing effectively",
+          "Optimize incrementally"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "front": {
+        "name": "Laura Schmidt",
+        "role": "Identity & Access Management Expert",
+        "logo": "AWS",
+        "quote": "In the cloud, identity is the new perimeter."
+      },
+      "back": {
+        "lesson": "Effective IAM is about finding the balance between security and usability while maintaining the principle of least privilege.",
+        "advice": [
+          "Regular access reviews",
+          "Use role-based access control",
+          "Implement strong authentication"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "front": {
+        "name": "Carlos Mendoza",
+        "role": "Serverless Operations Lead",
+        "logo": "AWS",
+        "quote": "The best operations are the ones you don't have to think about."
+      },
+      "back": {
+        "lesson": "Serverless operations require a different mindset - focus on event patterns and service integration rather than server management.",
+        "advice": [
+          "Design for idempotency",
+          "Implement proper error handling",
+          "Use step functions for complex workflows"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "front": {
+        "name": "Michelle Chang",
+        "role": "Data Analytics Leader",
+        "logo": "AWS",
+        "quote": "Data should tell a story that drives action."
+      },
+      "back": {
+        "lesson": "The value of data analytics lies not in collecting data, but in deriving actionable insights from it.",
+        "advice": [
+          "Start with clear business questions",
+          "Build scalable data pipelines",
+          "Focus on data quality"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "front": {
+        "name": "Alex Morgan",
+        "role": "Cloud Security Operations Lead",
+        "logo": "AWS",
+        "quote": "Security is everyone's job, but it needs to be someone's responsibility."
+      },
+      "back": {
+        "lesson": "Effective security operations require a combination of automation, monitoring, and rapid response capabilities.",
+        "advice": [
+          "Implement security automation",
+          "Develop incident response plans",
+          "Regular security training"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "front": {
+        "name": "Nina Patel",
+        "role": "Application Modernization Expert",
+        "logo": "AWS",
+        "quote": "Modernization is a marathon, not a sprint."
+      },
+      "back": {
+        "lesson": "Successful application modernization requires balancing technical debt reduction with business value delivery.",
+        "advice": [
+          "Modernize incrementally",
+          "Focus on business outcomes",
+          "Maintain backward compatibility"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "front": {
+        "name": "William Taylor",
+        "role": "Cloud Financial Operations Lead",
+        "logo": "AWS",
+        "quote": "Cloud economics is about making informed decisions, not just cutting costs."
+      },
+      "back": {
+        "lesson": "Understanding cloud economics is crucial for making architectural decisions that balance cost with performance and reliability.",
+        "advice": [
+          "Implement comprehensive tagging",
+          "Use reserved instances strategically",
+          "Monitor and optimize regularly"
+        ]
+      }
+    }
   ]
 }
