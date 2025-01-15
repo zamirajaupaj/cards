@@ -1,1 +1,1809 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "front": {
+        "name": "Axel Clauberg",
+        "role": "Director, Partner Solutions Architects EMEA",
+        "logo": "AWS",
+        "quote": "\"The best way to predict the future is to invent it.\" Alan Kay"
+      },
+      "back": {
+        "lesson": "I learned this early in my international management career when my direct German feedback culture made me act like a bull in a china shop. A Global Mindset and Cultural Intelligence is critical for psychological safety in any team.",
+        "advice": [
+          "Don't complain, own! Ownership is a critical element of a Day1 innovation culture.",
+          "Your opinion is too important to be silent, bring it in, show backbone.",
+          "Fail often (and learn from it)."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "front": {
+        "name": "Eric Johnson",
+        "role": "Principal Developer Advocate",
+        "logo": "AWS",
+        "quote": "\"Do justice, love mercy, and walk humbly with your God\" - Micah 6:8"
+      },
+      "back": {
+        "lesson": "On lesson I have learned is to expect and embrace mistakes. When a mistake happens, own it, correct if possible, and move on.",
+        "advice": [
+          "If you are the smartest person in the room, find a new room. Put yourself in a situation to learn.",
+          "Correct privately, praise publically, and never be stingy with knowledge.",
+          "Kindness and conflict are not mutually exclusive. Learn to express your opinion and stand your ground without the tearing down of others."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "front": {
+        "name": "Margo Cronin",
+        "role": "Principal Specialist Solution Architect",
+        "logo": "AWS",
+        "quote": "The mind is a wonderful servant and terrible master."
+      },
+      "back": {
+        "lesson": "I have learnt more from my failures than my successes. Successes are great for morale, failures are great for successes (and write minutes)",
+        "advice": [
+          "Becoming a manager should not be a promotion. Good people manager have a skill in that functionality.",
+          "When you dont know what you want to do, write out what you dont want to do.",
+          "Just start.....If you want to be a writer, just write....etc."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "front": {
+        "name": "Jonathan Allen",
+        "role": "Director, Enterprise Strategy",
+        "logo": "AWS",
+        "quote": "All of your assumed constraints are debatable."
+      },
+      "back": {
+        "lesson": "Work from First Principles, challenge your assumptions, reduce requirements to the bare minimum, make sure every requirement has an individuals name on it.",
+        "advice": [
+          "You will always be too busy, motivation doesn't work, develop mechanisms for daily learning.",
+          "Give your customers what they want, make them happy.",
+          "Don't optimize something that should not exist."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "front": {
+        "name": "Miriam McLemore",
+        "role": "Director, Enterprise Strategy",
+        "logo": "AWS",
+        "quote": "Leadership lessons"
+      },
+      "back": {
+        "lesson": "Building networks and identifying opportunities for value creation is essential.",
+        "advice": [
+          "The importance of building networks and identifying gaps and opportunities",
+          "Push through imposter syndrome and take on challenges without hesitation",
+          "Be willing to take risks and don't wait on the sidelines"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "front": {
+        "name": "Miguel Álava Tejera",
+        "role": "Director Tech Sales",
+        "logo": "AWS",
+        "quote": "\"Leading Without Authority\" - Keith Ferrazzi"
+      },
+      "back": {
+        "lesson": "You never know what the future holds, so do what you do with the understanding that the legacy of your actions and the impact of your learning will last forever.",
+        "advice": [
+          "Technology will always evolve at a faster pace; therefore, our ability to learn and prioritize should grow at an equally rapid pace.",
+          "Being right or wrong is worthless. What truly matters is perceiving and solving relevant problems.",
+          "The best way to convince someone is to make them believe they are convincing you about what you want them to be convinced of."
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "front": {
+        "name": "Tomas Jan Soderstrom",
+        "role": "Enterprise Strategist",
+        "logo": "AWS",
+        "quote": "\"Perfection is the enemy of progress\""
+      },
+      "back": {
+        "lesson": "One lesson learned for demos to executives is to show only the business outcome. Then ask if they want to do more.",
+        "advice": [
+          "Prioritize Learn and Be Curious, especially on the business outcomes side.",
+          "Demonstrate bias for action as it will help to earn trust with customers, peers, management, and executives.",
+          "Take every opportunity to speak and write in public and tell a story."
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "front": {
+        "name": "David Elliott",
+        "role": "Director, Head of Architecture",
+        "logo": "AWS",
+        "quote": "'Ego, Authority, Failure' by Derek Gaunt"
+      },
+      "back": {
+        "lesson": "In tough situations, emotions can run high. Be aware of what triggers you and learn to use this as an opportunity to dive deeper and look into why.",
+        "advice": [
+          "'Every Day is a School Day'. There is always something new to learn in all situations.",
+          "Keep learning and growing",
+          "Stay humble and open to new ideas"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "front": {
+        "name": "Danilo Poccia",
+        "role": "Principal Developer Advocate",
+        "logo": "AWS",
+        "quote": "\"Simplicity is the ultimate sophistication\" - Leonardo Da Vinci"
+      },
+      "back": {
+        "lesson": "Many technologies come and go, but real user needs remain constant. Build deep expertise in understanding requirements and solving practical problems.",
+        "advice": [
+          "When you have a choice, follow your passions and curiosity.",
+          "Don't just learn a concept but learn to explain it to someone else.",
+          "In any conversation, listening is more important than talking."
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "front": {
+        "name": "Ran Tessler",
+        "role": "Dir, Solutions Architecture",
+        "logo": "AWS",
+        "quote": "\"Trust takes years to build, seconds to break, and forever to repair\""
+      },
+      "back": {
+        "lesson": "You cannot do it all. Be deliberate in what you choose to invest in. Be clear in communicating in what you will not.",
+        "advice": [
+          "Always provide customers with advice you would have followed if you were in their seat.",
+          "There are no ideal solutions. There are solutions that best fit your customer needs.",
+          "Speak up. You don't need to be loud. You need to be clear."
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "front": {
+        "name": "Gus Santana",
+        "role": "Geo SDT Leader",
+        "logo": "AWS",
+        "quote": "\"Nobody cares how much you know until they know how much you care.\" - Theodore Roosevelt"
+      },
+      "back": {
+        "lesson": "Architectures changes every 2 to 3 years. Even if you write a technical book, it will be outdated after some time. Your true legacy is the people you help.",
+        "advice": [
+          "We are not in the tech business. Many decisions are emotional. We are all in the people business.",
+          "My mission as a manager is that people that work in my team, leave closer to their purpose",
+          "If you are not working in your career plan, you are probably working on someone's else"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "front": {
+        "name": "Julian Wood",
+        "role": "Principal Developer Advocate",
+        "logo": "AWS",
+        "quote": "Nelson Mandela: What counts in life is not the mere fact that we have lived"
+      },
+      "back": {
+        "lesson": "People work best as individuals within teams. A group is more than the sum of its parts.",
+        "advice": [
+          "Be curious, explore, and share. You learn best when you dive down the rabbit hole.",
+          "Keep high standards. Avoid cutting corners.",
+          "Be kind, empathetic, and help others."
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "front": {
+        "name": "Phil Le-Brun",
+        "role": "Director, Enterprise Strategy",
+        "logo": "AWS",
+        "quote": "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem"
+      },
+      "back": {
+        "lesson": "Always prioritise people and communications. Everything we do requires people to come on a journey.",
+        "advice": [
+          "Migrations are not transformations, they are the start of a transformation.",
+          "Prioritise \"no regrets\" decisions.",
+          "There is no such thing as a technology project."
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "front": {
+        "name": "Stephan Hadinger",
+        "role": "Head of Technology",
+        "logo": "AWS",
+        "quote": "Nelson Mandela - I never lose. I either win or learn"
+      },
+      "back": {
+        "lesson": "Always address the customer CEO. No customer is won until the CEO decides.",
+        "advice": [
+          "What customer have, what they want and what they need are often 3 different things",
+          "\"Say no to say yes\". It is sometimes necessary to say NO to a customer",
+          "At AWS, you will never be able to do everything you are been asked to"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "front": {
+        "name": "Arthur Bailey",
+        "role": "Director, EMEA & LATAM AR",
+        "logo": "AWS",
+        "quote": "You can kill a man, but you can't kill an idea"
+      },
+      "back": {
+        "lesson": "Doing your homework is the foundation of your future success.",
+        "advice": [
+          "Accept that long-term success is always earned",
+          "Inspire others by the example you set",
+          "Be present and be humble"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "front": {
+        "name": "Chris Hennesey",
+        "role": "Enterprise Finance Strategist",
+        "logo": "AWS",
+        "quote": "\"Your network is your net worth\" -- Tim Sanders"
+      },
+      "back": {
+        "lesson": "As you progress through your career, it is important to know that as you begin to manage others - you are still accountable for their work.",
+        "advice": [
+          "Build and manage your network",
+          "Stay current. Continuously learn",
+          "Money provides options - save and invest"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "front": {
+        "name": "Margaret O'Toole",
+        "role": "WW Tech Leader Sustainability",
+        "logo": "AWS",
+        "quote": "The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions"
+      },
+      "back": {
+        "lesson": "Productive doesn't necessarily mean busy. It is incredibly important to make sure you protect time to think and reflect.",
+        "advice": [
+          "Always be willing to step back and look at the situation from another's perspective",
+          "If you ever feel like you're the \"dumbest\" person in the room, try to think of this as an opportunity",
+          "Make someone else tell you no"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "front": {
+        "name": "Elena Rudenko",
+        "role": "Director, EMEA GTM and GFD",
+        "logo": "AWS",
+        "quote": "\"Simplicity is the ultimate sophistication\" – Leonardo da Vinci"
+      },
+      "back": {
+        "lesson": "Ability to pause and reflect goes a long way. The loudest voice in the room is rarely heard.",
+        "advice": [
+          "Trust your choices",
+          "Be bold. Ask for forgiveness, not permission",
+          "Build a support network. In and out of office"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "front": {
+        "name": "Mark Birch",
+        "role": "Global Startup Advocate",
+        "logo": "AWS",
+        "quote": "\"Do what you love in the service of people who love what you do\" – Steve Farber, The Radical Leap"
+      },
+      "back": {
+        "lesson": "You have to be willing to reinvent yourself in your career.",
+        "advice": [
+          "Embrace serendipity",
+          "Be more helpful",
+          "Work does not define you, vision does"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "front": {
+        "name": "Martyn Storey",
+        "role": "Head of GTM Strategy and Architecture",
+        "logo": "AWS",
+        "quote": "Sapiens: A Brief History of Humankind by Yuval Noah Harari"
+      },
+      "back": {
+        "lesson": "I have learned that it is critical to have a closed customer feedback loop. The loop has to be facilitated by three things: Data capture, Effective tools, and Buy in from stakeholders.",
+        "advice": [
+          "Don't ever be afraid to go out of ones comfort zone",
+          "Learn from people of all backgrounds and experiences",
+          "Leadership is about leading from the front"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "front": {
+        "name": "Kamil Davidov",
+        "role": "Senior Manager - CSM Manager",
+        "logo": "AWS",
+        "quote": "#DiaryOfACEO with Steven Bartlett and Jimmy Carr. PodCast!"
+      },
+      "back": {
+        "lesson": "Quality over Quantity: Make the time you spend with your family and with colleges count. Even if you're busy, focus on quality interactions like meaningful conversations or activities that strengthen your bond.",
+        "advice": [
+          "Be Kind to Yourself: No one can do it all perfectly. Accept that some days will be chaotic, and that's okay",
+          "Outsource When Possible: Whether it's hiring help with housework, childcare, or meal prep, outsource some tasks to free up valuable time",
+          "Set Boundaries: Clearly define when you're working and when you're with your family. Communicate these boundaries to both your employer and your family"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "front": {
+        "name": "Rahul Shukla",
+        "role": "Director Client Relation Ops",
+        "logo": "AWS",
+        "quote": "S. Jobs: Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma—which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition."
+      },
+      "back": {
+        "lesson": "Find the best team, and best leaders to go work with and learn from. You will learn the most in the shortest period of time and be able to make an impact that matters. Ultimately that will move your career faster than any other proxies - titles, comp, number of people who report to you etc.",
+        "advice": [
+          "Don't let your current job role define your impact and contributions to the organization. Eliminate guardrails and organizational barriers",
+          "Be Curious. Learn and innovate. You learn most by sharing. So lean in to share your time, expertise and insights to those in need",
+          "Surround yourself with talent and leaders who are much better than you. Each hire should raise the capability of the team in new ways"
+        ]
+      }
+    }, 
+    {
+      "id": 23,
+      "front": {
+        "name": "Colin Bonney",
+        "role": "Sr Mgr Customer Solutions Management",
+        "logo": "AWS",
+        "quote": "Plato: A wise person will talk because they have something to say"
+      },
+      "back": {
+        "lesson": "Your work is just that, don't let it consume your life, ensure you can switch off from it",
+        "advice": [
+          "Learn as much as you can consume and can put into practice",
+          "Manage upwards, its important that your management know you",
+          "Be helpful to others, after all you never know when you may need help"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "front": {
+        "name": "Armando Martines Neto",
+        "role": "Head of EMEA Solution Architecture",
+        "logo": "AWS",
+        "quote": "The people who don't ask questions remain clueless throughout their lives"
+      },
+      "back": {
+        "lesson": "Things will go wrong, it is not about to prevent problems, but to be prepared to deal with it when it happens!",
+        "advice": [
+          "Learn from others! in the IT industry is important to identify what successful people are doing",
+          "Talk about your ideas to others, hear different point of views",
+          "Set your targets! think where you want to be in 5-10-15 years"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "front": {
+        "name": "Matthias Patzak",
+        "role": "Enterprise Strategist",
+        "logo": "AWS",
+        "quote": "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software"
+      },
+      "back": {
+        "lesson": "A job is just a job. Focus on delivering business value and results.",
+        "advice": [
+          "Be clear about whether your career path lies in management or in IC",
+          "Never settle. Stay curious. Read! Share. Learn",
+          "Do what you love"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "front": {
+        "name": "Tobias Börjeson",
+        "role": "Head of Technology, Nordics",
+        "logo": "AWS",
+        "quote": "People who are right most of the time are people who change their minds often"
+      },
+      "back": {
+        "lesson": "One significant lesson I've learned is the power of adaptability and constant forward motion",
+        "advice": [
+          "Always expand your personal network, learn new skills constantly",
+          "Maintaining a relentless curiosity and growth mindset has been crucial",
+          "Never stop letting your curiosity guide you"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "front": {
+        "name": "Brandon Carroll",
+        "role": "Sr. Product Marketing Manager",
+        "logo": "AWS",
+        "quote": "\"Let's go invent tomorrow instead of worrying about what happened yesterday\" -- Steve Jobs"
+      },
+      "back": {
+        "lesson": "You don't have to have it all figured out at the start of your career",
+        "advice": [
+          "To accelerate your career, accept that you will never know it all",
+          "Working in Tech is a marathon, not a sprint",
+          "Change your vocabulary and change your outcome"
+        ]
+      }
+    }, 
+    {
+      "id": 28,
+      "front": {
+        "name": "Norihisa Tsuruta",
+        "role": "Director, Japan FSI",
+        "logo": "AWS",
+        "quote": "\"The best way to predict the future is to create it\" - Peter Drucker"
+      },
+      "back": {
+        "lesson": "In the IT industry, where change is rapid, adaptability to new environments is most critical for us.",
+        "advice": [
+          "It is desirable to acquire deep tech skills that will serve as your core foundation",
+          "For anything, it is important to take responsibility and see it through to the end",
+          "Follow the rules, don't make the same mistake, and accept failure and take next action"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "front": {
+        "name": "Sebastien Stormacq",
+        "role": "Principal Developer Advocate",
+        "logo": "AWS",
+        "quote": "https://www.amazon.com/dp/B012BLTM6I"
+      },
+      "back": {
+        "lesson": "Respect diverse perspectives and opinions. Everyone brings unique value to the table.",
+        "advice": [
+          "Don't limit yourself to a single niche. Stay curious and explore different areas of tech",
+          "Continuously learn and be curious",
+          "Prioritize learning and stay curious"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "front": {
+        "name": "Anonymous",
+        "role": "Solutions Architect",
+        "logo": "AWS",
+        "quote": "Work hard, have fun, make history (Jeff Bezos)"
+      },
+      "back": {
+        "lesson": "You will always find people who know much more than you, try to leverage them to boost your skills",
+        "advice": [
+          "Learn and be curious. Tech industry is evolving super fast",
+          "Ownership. Don't expect from others to build a plan for you",
+          "Enjoy what you do"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "front": {
+        "name": "Mark Schwartz",
+        "role": "Director, Enterprise Strategy",
+        "logo": "AWS",
+        "quote": "Read great literature and philosophy books, not business or business technology books!"
+      },
+      "back": {
+        "lesson": "A lesson from sales: Always be Closing. I had to learn to close deals rather than leaving things vague or open.",
+        "advice": [
+          "Take on roles that require ownership and hard decisions, not just advisory",
+          "All problems can be solved - just keep trying!",
+          "It's important to engage people in the organization, because you can't do it alone"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "front": {
+        "name": "Brooke Jamieson",
+        "role": "Senior Developer Advocate",
+        "logo": "AWS",
+        "quote": "\"Share your truth, it is your power\" - Grace Tame"
+      },
+      "back": {
+        "lesson": "Always think about how you'll explain a feature/project/product to someone else.",
+        "advice": [
+          "Take charge of your own learning & development",
+          "Tech changes all the time, but your values don't",
+          "Be who you needed when you were younger"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "front": {
+        "name": "Nithya Ruff",
+        "role": "Director - Amazon OSPO",
+        "logo": "AWS",
+        "quote": "Growth Mindset by Carol S. Dweck and Working Backwards by Colin Bryar and Bill Carr"
+      },
+      "back": {
+        "lesson": "An important transformation I made was when I first became a people manager.",
+        "advice": [
+          "Be in charge of your own career",
+          "Leadership is about owning your space and becoming an expert at your craft",
+          "Good communications skills and growth mindset are essential"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "front": {
+        "name": "Matt Wood",
+        "role": "VP, AI",
+        "logo": "AWS",
+        "quote": "\"Innovation is seeing what everybody has seen and thinking what nobody has thought\""
+      },
+      "back": {
+        "lesson": "Commoditize your embarrassment—don't let the fear of judgment silence your creativity.",
+        "advice": [
+          "Stay curious: embrace new ideas, ask questions, and explore beyond your comfort zone",
+          "Ask for forgiveness, not permission",
+          "In periods of discontinuous change, act as a merry band of pirates not a supertanker"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "front": {
+        "name": "Yoji Harada",
+        "role": "Executive Officer, Director, Scale Sales ",
+        "logo": "AWS",
+        "quote": "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change\""
+      },
+      "back": {
+        "lesson": "Don't get stuck in chasing after your next level too much, rather focus on what you can do now.",
+        "advice": [
+          "Be intentional for career development",
+          "People always matters. Be humble, respect and appreciate",
+          "Learn from good managers, but more importantly from bad managers"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "front": {
+        "name": "Anonymous",
+        "role": "Solutions Architect",
+        "logo": "AWS",
+        "quote": "Everything fails, all of the time - Werner Vogels"
+      },
+      "back": {
+        "lesson": "I've learned the importance of having mentors for all stages of my career.",
+        "advice": [
+          "Treat yourself like your own customer and work backwards with yourself",
+          "Never stop learning but remember it isn't just technology",
+          "Remember you can't help anyone else if you don't help yourself"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "front": {
+        "name": "Matheus Guimaraes",
+        "role": "Senior Developer Advocate",
+        "logo": "AWS",
+        "quote": "Various quotes about success, doubt, and passion"
+      },
+      "back": {
+        "lesson": "Technology will always evolve, and so should you.",
+        "advice": [
+          "Much like learning another language, immerse yourself with topics you want to learn",
+          "My passion married with my willingness to go the extra mile",
+          "Fall in love with learning!"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "front": {
+        "name": "Nitin Bawankule",
+        "role": "Director, India TMEGS",
+        "logo": "AWS",
+        "quote": "\"Leadership and learning are indispensable to each other\" -John F. Kennedy"
+      },
+      "back": {
+        "lesson": "One lesson I have learnt is, irrespective of however good your tech/solution is, what matters most is 'How can it solve the real life problem'.",
+        "advice": [
+          "You are the architect of your career",
+          "One key metric of success changes as you grow",
+          "Think Big, bold - not only for the customers and solutions, but also for your career"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "front": {
+        "name": "Sundar Ram VG",
+        "role": "Director, India Specialist",
+        "logo": "AWS",
+        "quote": "Growth Mindset by Prof. Carol Dweck helped me a lot"
+      },
+      "back": {
+        "lesson": "Never tie yourself to a \"Godfather\" like figure. Always stand on your merit, network, and personality.",
+        "advice": [
+          "Always remember that career progression starts with 3 things: curiosity, help others, and challenge yourself",
+          "Three key components for success in writing, communication, and leadership",
+          "Take time to know yourself and stay humble"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "front": {
+        "name": "Rafael Bautista",
+        "role": "Head of DevRel Growth Progams",
+        "logo": "AWS",
+        "quote": "The book \"The Go-Giver\""
+      },
+      "back": {
+        "lesson": "One lesson is to focus on fewer things and prioritize your tasks",
+        "advice": [
+          "The tech industry can be complex and fast-paced, so focus your efforts strategically",
+          "Connect with Your Passion and continuously learn",
+          "Face new challenges head-on, even when fearful"
+        ]
+      }
+      },
+      {
+        "id": 41,
+        "front": {
+          "name": "Kathy Kam",
+          "role": "Director Software Development",
+          "logo": "AWS",
+          "quote": "TED talk \"Grid: The Power of Passion and Perseverance\""
+        },
+        "back": {
+          "lesson": "The most important decision I make day to day is not what I do, but what I consciously deprioritized and not do.",
+          "advice": [
+            "Tech industry is ever innovating and evolving",
+            "The best leaders I know have \"Grit\"",
+            "There is always something you can learn from the people around you"
+          ]
+        }
+      },
+      {
+        "id": 42,
+        "front": {
+          "name": "Hiroyuki Tsutsumi",
+          "role": "Director, Cross Ind Vertical",
+          "logo": "AWS",
+          "quote": "Quotes about simplicity and sophistication"
+        },
+        "back": {
+          "lesson": "Great technology is appreciated, but it is not always accepted by the market.",
+          "advice": [
+            "Keep up to date with the latest social and market conditions and trends",
+            "Looking at things over a fairly long time span",
+            "Always be challenging and follow the three rules for challenges"
+          ]
+        }
+      }, 
+      {
+        "id": 43,
+        "front": {
+          "name": "Amelie Clugnet",
+          "role": "Director, Europe South",
+          "logo": "AWS",
+          "quote": "Focus on Think big in your scope of role"
+        },
+        "back": {
+          "lesson": "Focus on Think big in your scope of role. We have all the ability to innovate.",
+          "advice": [
+            "Don't think about your next move as a final destination but where it is going to take you",
+            "Learn and be curious is critical to be successful in our environment",
+            "Don't wait for jobs to be published. Best jobs are like apartments, they often don't appear on the web"
+          ]
+        }
+      },
+      {
+        "id": 44,
+        "front": {
+          "name": "Donnie Prakoso",
+          "role": "Principal Developer Advocate",
+          "logo": "AWS",
+          "quote": "Memento mori — Remember, you must die. Make the most out of your day, everyday!"
+        },
+        "back": {
+          "lesson": "Technology is just an enabler for business. Think about the value you're giving, not how you're going to deliver.",
+          "advice": [
+            "If you want to accelerate, you need to beat the learning curves",
+            "Write anything and everything",
+            "Define your workflow and be disciplined"
+          ]
+        }
+      },
+      {
+        "id": 45,
+        "front": {
+          "name": "Anonymous",
+          "role": "Solutions Architect",
+          "logo": "AWS",
+          "quote": "\"Be the change you want to see in the world.\" - Ghandi"
+        },
+        "back": {
+          "lesson": "Simple is better. In Leadership - clarity of purpose brings teams together.",
+          "advice": [
+            "Position yourself to be agile and willing to try multiple disciplines",
+            "Be humble, but strive for greatness",
+            "Earn trust always"
+          ]
+        }
+      },
+      {
+        "id": 46,
+        "front": {
+          "name": "Jeff Barr",
+          "role": "VP, AWS Evangelism",
+          "logo": "AWS",
+          "quote": "\"Before we work on artificial intelligence why don't we do something about natural stupidity?\""
+        },
+        "back": {
+          "lesson": "Be willing to politely yet firmly say \"No, I cannot\" when people ask you to do just one more thing.",
+          "advice": [
+            "Set some short and medium term goals, get a good mentor",
+            "Respect past technological developments while remaining open to future developments",
+            "Take that fork in the road when opportunities arise"
+          ]
+        }
+      },
+      {
+        "id": 47,
+        "front": {
+          "name": "James Horsley",
+          "role": "Senior Principal Engineer",
+          "logo": "AWS",
+          "quote": "\"A rising tide lifts all boats\" & \"united we stand, divided we fall\""
+        },
+        "back": {
+          "lesson": "To quote The Office \"business is about people.\"",
+          "advice": [
+            "Identify the things you want as a customer and make them happen",
+            "Your work isn't you. Don't take things personally",
+            "Stay curious, always be learning"
+          ]
+        }
+      },
+      {
+        "id": 48,
+        "front": {
+          "name": "Ushio Usami",
+          "role": "Director, Japan Public Sector",
+          "logo": "AWS",
+          "quote": "FREAK NOMICS RADIO"
+        },
+        "back": {
+          "lesson": "When I started working in 1986, I learnt based on IBM mainframe technology. Even in the cloud age, the challenges are common.",
+          "advice": [
+            "Understandings of technology vision rather than diving deep specific technology",
+            "Communication skills with business leaders",
+            "Think about how you can make the world better"
+          ]
+        }
+      },
+      {
+        "id": 49,
+        "front": {
+          "name": "Farhin Khan",
+          "role": "Sr Mgr GTM Spec D&AI UK",
+          "logo": "AWS",
+          "quote": "Careers are a jungle gym, not a ladder - Sheryl Sandberg"
+        },
+        "back": {
+          "lesson": "As a woman in tech, one of the most significant lessons I've learned is the importance of being authentic and embracing vulnerability.",
+          "advice": [
+            "Adopt a proactive, self-starter mindset",
+            "R.A.P.I.D: Resilient, Adaptable, Proactive, Innovative, Determined",
+            "Embrace self-advocacy and sponsorship"
+          ]
+        }
+      },
+      {
+        "id": 50,
+        "front": {
+          "name": "Martin Elwin",
+          "role": "Director SA, Europe North",
+          "logo": "AWS",
+          "quote": "Podcast: The Amp Hour"
+        },
+        "back": {
+          "lesson": "To achieve something it's often better to make a quick decision and then iterating on it.",
+          "advice": [
+            "Be open to try different things",
+            "Always consider not only what you communicate, but also how you communicate it",
+            "Given different relevant options, focus on what you most enjoy doing"
+          ]
+        }
+      }, 
+      {
+        "id": 51,
+        "front": {
+          "name": "Mahin Sonia",
+          "role": "Sr Mgr, Partner SA, APJ",
+          "logo": "AWS",
+          "quote": "The Surprising Solution to Imposter Syndrome"
+        },
+        "back": {
+          "lesson": "Build your network. We should always focus on ensuring we build our network of professionals.",
+          "advice": [
+            "Never be afraid to take risks",
+            "Always have a mentor",
+            "Build your brand on LinkedIn"
+          ]
+        }
+      },
+      {
+        "id": 52,
+        "front": {
+          "name": "Adrian De Luca",
+          "role": "Head of APJ Cloud Acceleration",
+          "logo": "AWS",
+          "quote": "Creativity thrives in an environment where mistakes are tolerated and experimentation is encouraged"
+        },
+        "back": {
+          "lesson": "One lesson I've learned is you need to do a lot of listening all of the time.",
+          "advice": [
+            "Sustaining a long and fruitful career in the tech industry requires constant learning",
+            "Great leaders know when to lead from the front or behind",
+            "While many tend to believe Intelligence Quotient (IQ) is the most critical skill, Adaptability Quotient (AQ) is far more valuable"
+          ]
+        }
+      },
+      {
+        "id": 53,
+        "front": {
+          "name": "Chris Casey",
+          "role": "Director, APJ Partner Mgmt",
+          "logo": "AWS",
+          "quote": "Andy's letter of gratitude to the AWS team"
+        },
+        "back": {
+          "lesson": "Asking open ended questions that start with How?, What?, Where? are powerful thought provoking questions.",
+          "advice": [
+            "Have goals but mentally note that you're always a work in progress",
+            "Where and how you show up consistently as a leader speaks loudly",
+            "It doesn't cost you anything extra to be a good person"
+          ]
+        }
+      },
+      {
+        "id": 54,
+        "front": {
+          "name": "Matty Noble",
+          "role": "Sr Principal Engineer",
+          "logo": "AWS",
+          "quote": "In the beginner's mind there are many possibilities, but in the expert's there are few"
+        },
+        "back": {
+          "lesson": "The most important lesson I learned is the importance of clear communication.",
+          "advice": [
+            "Learn about what your leadership really cares about",
+            "I gravitate towards projects where I have to break the rules to succeed",
+            "Seek out people in other job roles that complement your own"
+          ]
+        }
+      },
+      {
+        "id": 55,
+        "front": {
+          "name": "Luca Mezzarila",
+          "role": "Principal Solutions Serverless",
+          "logo": "AWS",
+          "quote": "The journey of a thousand miles begins with one step - Lao Tzu"
+        },
+        "back": {
+          "lesson": "In life, you never truly lose. You either win or learn, and in both cases, it's a success.",
+          "advice": [
+            "Push yourself outside your comfort zone",
+            "Distributed systems are living systems",
+            "Continuous learning"
+          ]
+        }
+      },
+      {
+        "id": 56,
+        "front": {
+          "name": "Ricardo Sueiras",
+          "role": "Principal Developer Advocate",
+          "logo": "AWS",
+          "quote": "Focus on building networks and relationships"
+        },
+        "back": {
+          "lesson": "Communication - Even as technologists, understand how to communicate.",
+          "advice": [
+            "Take a breath - People make bad decisions when they are panicked",
+            "Look for the gaps – being able to look beyond your own remit",
+            "Set long term goals – failure to have a mission for yourself"
+          ]
+        }
+      },
+      {
+        "id": 57,
+        "front": {
+          "name": "Shalini Kapoor",
+          "role": "Dir Sr Enterprise Technologist",
+          "logo": "AWS",
+          "quote": "Lessons in Chemistry by Bonnie Garmus"
+        },
+        "back": {
+          "lesson": "We need to be massively prepared for transformations in products, customers' behaviours, organizational design and practices.",
+          "advice": [
+            "Put up your hand for the most challenging assignment",
+            "To become a learner at all points",
+            "Be kind, respectful and sensitive to diversity"
+          ]
+        }
+        }, 
+        {
+          "id": 58,
+          "front": {
+            "name": "John Davies",
+            "role": "Director, UK Public Sector",
+            "logo": "AWS",
+            "quote": "The squiggly career"
+          },
+          "back": {
+            "lesson": "\"A, B, SC\") Always be scaling!",
+            "advice": [
+              "Breadth (horizontal moves) are disproportionately important in early years",
+              "Audit yourself and your business frequently",
+              "Never lose the curiosity of youth"
+            ]
+          }
+        },
+        {
+          "id": 59,
+          "front": {
+            "name": "Jason Bath",
+            "role": "SoWWSO EMEA Leader BD",
+            "logo": "AWS",
+            "quote": "Read Swim with Sharks without being eaten!"
+          },
+          "back": {
+            "lesson": "Remember your value and ensure you are rewarded for it",
+            "advice": [
+              "Have a plan. Write it down",
+              "Manage your brand",
+              "Communicate complex topics simply"
+            ]
+          }
+        },
+        {
+          "id": 60,
+          "front": {
+            "name": "Tom Godden",
+            "role": "Director, Enterprise Strategy",
+            "logo": "AWS",
+            "quote": "na"
+          },
+          "back": {
+            "lesson": "It is about business value nothing else",
+            "advice": [
+              "Be willing to say yes to opportunities",
+              "Being self critical",
+              "Develop strong business understanding"
+            ]
+          }
+        },
+        {
+          "id": 61,
+          "front": {
+            "name": "Roland Barcia",
+            "role": "Dir, Specialist SA and Tech",
+            "logo": "AWS",
+            "quote": "Jeff Bezos quote about process as proxy"
+          },
+          "back": {
+            "lesson": "Don't get overly religious over a particular technology or process",
+            "advice": [
+              "Do not lose your passion to learn something new",
+              "Aim for substance over check boxes",
+              "Do not solve for \"Reuse\""
+            ]
+          }
+        }, 
+        {
+          "id": 62,
+          "front": {
+            "name": "Adam Seligman",
+            "role": "VP, Developer Experience",
+            "logo": "AWS",
+            "quote": "I love that someone said they wish generative AI could take care of the boring things for creative people instead of doing creative things for boring people"
+          },
+          "back": {
+            "lesson": "You can't be a subject matter expert in everything. But you can form strong clear opinions and products benefit from that greatly.",
+            "advice": [
+              "Stay technically curious, try technologies and form and informed opinion",
+              "I've learned that people want leaders to provide clarity",
+              "Your reputation carries with you your whole career"
+            ]
+          }
+        },
+        {
+          "id": 63,
+          "front": {
+            "name": "Rianne van Veldhuizen",
+            "role": "Managing Director ANZ",
+            "logo": "AWS",
+            "quote": "A ship in harbor is safe — but that is not what ships are built for"
+          },
+          "back": {
+            "lesson": "One of the most important lessons I've learned is the value of staying focused and driving towards tangible, measurable outcomes.",
+            "advice": [
+              "Get a mentor!",
+              "Embracing change with a sense of excitement and curiosity",
+              "Stay true to your authentic self"
+            ]
+          }
+        },
+        {
+          "id": 64,
+          "front": {
+            "name": "Yukiko Sato",
+            "role": "Director, Japan DNB & ISV",
+            "logo": "AWS",
+            "quote": "Success is not final, failure is not fatal. It is the courage to continue that counts"
+          },
+          "back": {
+            "lesson": "The important thing is not to \"win\", but to show respect and cooperation.",
+            "advice": [
+              "Find an environment with respectable bosses and colleagues",
+              "Believe in yourself. Have courage and take action",
+              "Don't lose sight of the long-term perspective"
+            ]
+          }
+        },
+        {
+          "id": 65,
+          "front": {
+            "name": "Rejean Bourgault",
+            "role": "Director Canada WWPS",
+            "logo": "AWS",
+            "quote": "Take Vacations, no one will reward you for not taking vacations."
+          },
+          "back": {
+            "lesson": "The best keynote speeches are done only with Images in the background.",
+            "advice": [
+              "Best advice would be to continue Learn and Be Curious",
+              "Stay Humble and Authentic in all you do",
+              "Be good on stage, like very good."
+            ]
+          }
+        },
+        {
+          "id": 66,
+          "front": {
+            "name": "Soo Lee",
+            "role": "Dir, WW Strategic Alliances",
+            "logo": "AWS",
+            "quote": "Masters of Scale - Let fires burn episode"
+          },
+          "back": {
+            "lesson": "Do not let yourself, your idea get bullied out when you are convicted it's the right thing for the business.",
+            "advice": [
+              "The bar is constantly changing at Amazon/AWS and the industry",
+              "Be tactically impatient while being strategically patient",
+              "Speed disproportionately matters"
+            ]
+          }
+        }, 
+        {
+          "id": 67,
+          "front": {
+            "name": "Jens Greiner",
+            "role": "Enterprise Technologist",
+            "logo": "AWS",
+            "quote": "\"Love it, change it or leave it!\" This quote helped me to stay healthy, happy and successful."
+          },
+          "back": {
+            "lesson": "As a technical expert, you can deal with a higher complexity than your customers and stakeholders. Break it down in small, valuable junks and communicate it in your customers language.",
+            "advice": [
+              "Be very clear what you want to be, but don't focus on career development, focus on what you're passioned about",
+              "Stay current with the latest technological advancements to fully comprehend their problem-solving capabilities",
+              "Take risks and don't be afraid of failing"
+            ]
+          }
+        },
+        {
+          "id": 68,
+          "front": {
+            "name": "Jorrit Van der Meulen",
+            "role": "VP, EU Stores",
+            "logo": "AWS",
+            "quote": "\"failure and invention are inseparable twins\" - Jeff Bezos"
+          },
+          "back": {
+            "lesson": "Work backwards from the customer. Build what you think they will appreciate. Start there.",
+            "advice": [
+              "Follow your curiosity and your passion. Focus on developing your skills and expertise and good things will follow.",
+              "A high degree of curiosity and desire to learn. Be ready to fail. Embrace it and learn from it.",
+              "I manage my career by four principles: passion, challenge, people, and fair compensation"
+            ]
+          }
+        },
+        {
+          "id": 69,
+          "front": {
+            "name": "Alex Martinez",
+            "role": "Director Solutions Architecture WW Public Sector",
+            "logo": "AWS",
+            "quote": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+          },
+          "back": {
+            "lesson": "Be willing to tackle the hard problems; shortcuts today lead to detours tomorrow.",
+            "advice": [
+              "Focus on getting more experience on real customer problems",
+              "I've found achieving long term success is more about the people you meet along the journey than the technology",
+              "Learn the business, then learn your customer's business"
+            ]
+          }
+        },
+        {
+          "id": 70,
+          "front": {
+            "name": "Geries AbouAyash",
+            "role": "Director, AGS NAMER Tech",
+            "logo": "AWS",
+            "quote": "It does not get easier, you just get better!"
+          },
+          "back": {
+            "lesson": "As a leader, I need to constantly look for how I am scaling myself and getting my team to deliver at the highest levels.",
+            "advice": [
+              "It starts by continuously being in a learn & be curious mindset",
+              "In your daily routines, you will find yourself constantly reacting to things",
+              "Take time to build your mentorship circle and your stakeholder network"
+            ]
+          }
+        },
+        {
+          "id": 71,
+          "front": {
+            "name": "Arvind Mathur",
+            "role": "Enterprise Strategist",
+            "logo": "AWS",
+            "quote": "There is no such thing as best in a world of individuals!"
+          },
+          "back": {
+            "lesson": "Adoption is everything. Plan your product in a way that early customers become advocates for future waves of adoption.",
+            "advice": [
+              "Look out for and develop mentors, coaches and advocates",
+              "Speak up - you are closest to the ground",
+              "Throw yourself at opportunities that get you out of your comfort zone"
+            ]
+          }
+        },
+        {
+          "id": 72,
+          "front": {
+            "name": "Nicola Gerber",
+            "role": "APJ Head of Cloud Sales Center",
+            "logo": "AWS",
+            "quote": "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\""
+          },
+          "back": {
+            "lesson": "We are privileged to be part of an exciting journey that can redefine the way we live, work and interact.",
+            "advice": [
+              "Be deliberate in where you want to be",
+              "Don't look for affirmation before you do something",
+              "If you like how a person models what you think you're aspiring towards, learn from them"
+            ]
+          }
+        },
+        {
+          "id": 73,
+          "front": {
+            "name": "Sandra Teh",
+            "role": "Sr. Marketing Mgr, EMEA/APJC",
+            "logo": "AWS",
+            "quote": "Mahatma Gandhi - In a gentle way, you can shake the world."
+          },
+          "back": {
+            "lesson": "Anyone can be an innovator. A good idea can come from anyone, literally.",
+            "advice": [
+              "Mentor someone just like how you appreciate mentorship",
+              "If you don't spot another in the room that looks like you, speak up and be that critical voice",
+              "Build your personal branding and be that thought leader, not just any leader"
+            ]
+          }
+        },
+        {
+          "id": 74,
+          "front": {
+            "name": "Massimo Re Ferre",
+            "role": "Sr. Principal, Product Mgr",
+            "logo": "AWS",
+            "quote": "\"The world is flat\" by Thomas Friedman"
+          },
+          "back": {
+            "lesson": "One thing I learned in 30 years is that, finding the product market fit is a piece of art.",
+            "advice": [
+              "There is so much that is going on these days in tech. Be curious",
+              "There are many ways to achieve long-term success in tech",
+              "Keep your hands dirty while trying to see the big picture"
+            ]
+          }
+        },
+        {
+          "id": 75,
+          "front": {
+            "name": "Mike Eastman",
+            "role": "Dir, Amer Cloud Sales Center",
+            "logo": "AWS",
+            "quote": "General Colin Powell Leadership Lessons"
+          },
+          "back": {
+            "lesson": "The most important lesson that i have learned as an executive is to drive simplification.",
+            "advice": [
+              "Get out of your comfortably zone",
+              "Staying positive and leading with purpose",
+              "Building genuine emotional connections"
+            ]
+          }
+        },
+        {
+          "id": 76,
+          "front": {
+            "name": "Adam Driver",
+            "role": "Director, US Specialist, SA",
+            "logo": "AWS",
+            "quote": "\"Be more concerned with character than reputation. Character is what you are, reputation is what people think you are.\" - John Wooden"
+          },
+          "back": {
+            "lesson": "We all have a niche with technology where our expertise shines bright and loud, don't try to dominate the room with your expertise. We learn more by listening than speaking.",
+            "advice": [
+              "Take More Risks with your career",
+              "Stay Motivated with Hard Work and try to learn something each day",
+              "Pick your Battles - You can't win every hard opinion and decision and determine your must-wins and then dig in for those, but let the others go"
+            ]
+          }
+        }, 
+        {
+          "id": 77,
+          "front": {
+            "name": "Tanuja Randery",
+            "role": "VP, Commercial Sales & BD EMEA",
+            "logo": "AWS",
+            "quote": "It always seems impossible until it's done - Nelson Mandela"
+          },
+          "back": {
+            "lesson": "It takes a village … get all the help you can get and it's not about work life balance. It's balancing your time, prioritising and leaning into sponsors and a board of advisors. You are not alone.",
+            "advice": [
+              "Take the opportunities as they come and be proactive .. you are the person responsible for your career",
+              "A desire to have outsized impact, to transform the world, and knowing I could do the impossible if I tried hard enough and leveraged an amazing team",
+              "Calibrate don't catastrophise a friend once told me.. don't be too hard on yourself and enjoy every min of the learning, the failures and the successes"
+            ]
+          }
+        },
+        {
+          "id": 78,
+          "front": {
+            "name": "Anandhi Bumstead",
+            "role": "Director, Software Development",
+            "logo": "AWS",
+            "quote": "Trust is the new currency of our interdependent, collaborative world - Stephen M.R.Covey"
+          },
+          "back": {
+            "lesson": "Both Sides Now perspective - embracing this perspective is essential as we progress in our careers and find joy in doing what we do best.",
+            "advice": [
+              "Take the time to deeply understand the domain and build the relevant experiences",
+              "Continuing to develop the growth mindset was the valuable habit",
+              "Paying attention to details is crucial, but it's also important to remember not to let the pursuit of perfection hinder progress"
+            ]
+          }
+        },
+        {
+          "id": 79,
+          "front": {
+            "name": "Greg PROULX",
+            "role": "Dir, Business Innovation & Ops",
+            "logo": "AWS",
+            "quote": "The only constant in life is change - Heraclitus of Ephesus"
+          },
+          "back": {
+            "lesson": "One big lesson I've learned is that it's not just about \"what\" you produce with your work effort, but the \"how\" is also very important.",
+            "advice": [
+              "I would say it's important to have a clear view and vision",
+              "The Amazon leadership principles are a great foundation",
+              "Always seek to understand, e.g., be a \"truth seeker\""
+            ]
+          }
+        },
+        {
+          "id": 80,
+          "front": {
+            "name": "Justin Callison",
+            "role": "Director, AWS Workflow - Step Functions",
+            "logo": "AWS",
+            "quote": "If everyone is thinking alike, then somebody isn't thinking - George S. Patton"
+          },
+          "back": {
+            "lesson": "Failure is a better teacher than success. This is a hard lesson to learn and failure never feels good.",
+            "advice": [
+              "Be helpful - There are so many challenges facing every organization",
+              "Remain curious - Our industry moves so fast",
+              "It's a marathon, not a sprint"
+            ]
+          }
+        },
+        {
+          "id": 81,
+          "front": {
+            "name": "Brian Bohan",
+            "role": "Director, AWS Strat/BusDev",
+            "logo": "AWS",
+            "quote": "Trust takes years to build, seconds to break, and forever to repair"
+          },
+          "back": {
+            "lesson": "You can't be a subject matter expert in everything. But you can form strong clear opinions and products benefit from that greatly.",
+            "advice": [
+              "Three pieces of advice. First, look for those opportunities where you can solve difficult and complex problems",
+              "Be open to diverse and opposing points of view",
+              "Find mentors you will challenge your thinking and who will broaden your perspective"
+            ]
+          }
+        },
+        {
+          "id": 82,
+          "front": {
+            "name": "Danielle Gorlick",
+            "role": "Director of Benelux AGS",
+            "logo": "AWS",
+            "quote": "The best way to predict the future is to create it"
+          },
+          "back": {
+            "lesson": "The most important lesson I've learned is that success in technology isn't just about technical skills.",
+            "advice": [
+              "Build strong relationships and networks",
+              "Stay curious and keep learning",
+              "Focus on delivering value to customers"
+            ]
+          }
+        },
+        {
+          "id": 83,
+          "front": {
+            "name": "Julien Lépine",
+            "role": "Dir, Solutions Architecture",
+            "logo": "AWS",
+            "quote": "Premature optimization is the root of all evil - Donald Knuth"
+          },
+          "back": {
+            "lesson": "Think of your planning horizon. When I get stuck on a project, reframing the project into what we need now and what we will need later helps avoiding losing a lot of time.",
+            "advice": [
+              "Career growth is not a ladder, it is a map",
+              "Long term goals over tasks, be flexible and adaptable",
+              "Be stubborn on the vision, and flexible on the details"
+            ]
+          }
+        },
+        {
+          "id": 84,
+          "front": {
+            "name": "Melanie McGrory",
+            "role": "EMEA Director of Technology",
+            "logo": "AWS",
+            "quote": "Success is not final. Failure is not fatal. Its the courage to continue that counts"
+          },
+          "back": {
+            "lesson": "The lesson I learnt early on is to focus on the outcome that you are trying to achieve and never, ever, write code that looks good but delivers a poor customer experience.",
+            "advice": [
+              "I would say take a risk and do something outside of your comfort zone",
+              "Be prepared to be comfortable with being uncomfortable",
+              "Be Brave. Understand that not everything you try will be successful"
+            ]
+          }
+        },
+        {
+          "id": 85,
+          "front": {
+            "name": "Michael Choe",
+            "role": "Director, US Auto & Mfg",
+            "logo": "AWS",
+            "quote": "Innovation is key to growth and success"
+          },
+          "back": {
+            "lesson": "Focus on continuous improvement and never stop learning.",
+            "advice": [
+              "Always think about the customer first",
+              "Build strong relationships with your team",
+              "Stay updated with technology trends"
+            ]
+          }
+        },
+        {
+          "id": 86,
+          "front": {
+            "name": "Santanu Dutt",
+            "role": "Director, APJ Tech",
+            "logo": "AWS",
+            "quote": "When anecdotes and data do not match, generally the anecdotes are right - Jeff B"
+          },
+          "back": {
+            "lesson": "My younger naive self confused activity and being busy with productivity.",
+            "advice": [
+              "Be open-minded and be highly Learn & Be Curious",
+              "Leadership is driving outcomes via influencing others by inspiring the team",
+              "Story telling is one of the most under-rated yet most powerful tools"
+            ]
+          }
+        },
+        {
+          "id": 87,
+          "front": {
+            "name": "Michael Rambold",
+            "role": "Sr Mgr, Solutions Architecture",
+            "logo": "AWS",
+            "quote": "I believe you have to be willing to be misunderstood if you're going to innovate - Jeff Bezos"
+          },
+          "back": {
+            "lesson": "Always question the value add of what you do. Challenge requirements especially if it is getting too complicated.",
+            "advice": [
+              "Build up a personal brand on what you are good at",
+              "Truth seeking and take ownership",
+              "Experiment and fail fast but keep track of your own well being and time"
+            ]
+          }
+        },
+        {
+          "id": 88,
+          "front": {
+            "name": "Tom Maddox",
+            "role": "EMEA SMB SA leader",
+            "logo": "AWS",
+            "quote": "Get A Grip: How to Get Everything You Want from Your Entrepreneurial Business"
+          },
+          "back": {
+            "lesson": "Getting ideas off the ground can feel like lugging a rock up a hill; try aligning them to the needs of your business.",
+            "advice": [
+              "Surround yourself with people and businesses you want to learn from",
+              "Always jump in at the deep end and seek the opportunity in each challenge",
+              "Well thought through constructive feedback is the best thing that everyone can invest into you"
+            ]
+          }
+        },
+        {
+          "id": 89,
+          "front": {
+            "name": "Luke Anderson",
+            "role": "Director, GTM Spec. D&AI APJ",
+            "logo": "AWS",
+            "quote": "Do and Believe That Which Moves You Toward Your Goals – Tom Bilyeu"
+          },
+          "back": {
+            "lesson": "Always have an ask when engaging senior stakeholders - make it specific, relevant and remarkable.",
+            "advice": [
+              "Have a clear plan of what you want to achieve and when",
+              "Operate with authenticity and transparency",
+              "Answer the \"exam\" question and get to the point"
+            ]
+          }
+        },
+        {
+          "id": 90,
+          "front": {
+            "name": "Toshihiko Yasuda",
+            "role": "Director, Japan Specialist",
+            "logo": "AWS",
+            "quote": "\"If the size of your failures isn't growing, you're not going to be inventing at a size that can actually move the needle\" - Jeff Bezos"
+          },
+          "back": {
+            "lesson": "There is always an opportunity to think bigger. Keep pushing yourself.",
+            "advice": [
+              "Get out of your comfortably zone. Stretch yourself",
+              "Tackle the largest problem you can solve",
+              "Focus on impacts you can create"
+            ]
+          }
+        },
+        {
+          "id": 90,
+          "front": {
+            "name": "Ben Cabanas",
+            "role": "Director, AGS APJ Technology",
+            "logo": "AWS",
+            "quote": "Lights Out: Pride, Delusion, and the Fall of General Electric"
+          },
+          "back": {
+            "lesson": "We can not solve our problems with the same level of thinking that created them - Albert Einstein",
+            "advice": [
+              "Build deep and differentiating subject-matter expertise in your career before breadth",
+              "Be committed to a journey of continuous improvement",
+              "If you are not putting yourself in uncomfortable situations on a daily basis, you are not growing!"
+            ]
+          }
+        },
+        {
+          "id": 92,
+          "front": {
+            "name": "Max Amordeluso",
+            "role": "&AI SSA leader North",
+            "logo": "AWS",
+            "quote": "Who Moved My Cheese? by Spencer Johnson"
+          },
+          "back": {
+            "lesson": "Don't be afraid of failure, embrace it, learn from it and persevere.",
+            "advice": [
+              "You own your career, nobody else",
+              "I always try to look at the person behind the badge",
+              "Be curious"
+            ]
+          }
+        },
+        {
+          "id": 93,
+          "front": {
+            "name": "Adam Broda",
+            "role": "Sr. Manager, Product Management - Worldwide ",
+            "logo": "AWS",
+            "quote": "\"Atomic Habits\" - James Clear"
+          },
+          "back": {
+            "lesson": "One important lesson I have learned is to over communicate your vision and mission to the team.",
+            "advice": [
+              "Be prepared to say \"No\" to a lot of things that aren't worthy of your time",
+              "Resist the temptation to manage/lead like the leaders you work for",
+              "Feedback is the life-blood of high-trust, high-performance team culture"
+            ]
+          }
+        },
+        {
+          "id": 94,
+          "front": {
+            "name": "Cleber Pereira De Morais",
+            "role": "Managing Director, LATAM",
+            "logo": "AWS",
+            "quote": "Innovation and leadership in technology"
+          },
+          "back": {
+            "lesson": "Focus on continuous learning and adaptation in the fast-paced tech industry.",
+            "advice": [
+              "Maintain a strong technical foundation",
+              "Build effective communication skills",
+              "Embrace change and new technologies"
+            ]
+          }
+        },
+        {
+          "id": 85,
+          "front": {
+            "name": "Juan-Carlos Gutierrez",
+            "role": "Mng Director,LATAM Tech&Innov",
+            "logo": "AWS",
+            "quote": "Gratefulness is to resilience, as exercising is to fitness"
+          },
+          "back": {
+            "lesson": "Be an owner of everything you do. You own your life and your career. Do not behave as a renter or a loaner of your life.",
+            "advice": [
+              "Learning and Be Curious is a way of living, it is not a moment",
+              "This new era demands a shift in skills, mindsets, and the very nature of how humans approach their work",
+              "Build harmony in your life and careers"
+            ]
+          }
+        },
+        {
+          "id": 96,
+          "front": {
+            "name": "Michael Schmidt",
+            "role": "PSA Director, WW IndustrySolns",
+            "logo": "AWS",
+            "quote": "Take Vacations, no one will reward you for not taking vacations"
+          },
+          "back": {
+            "lesson": "There will be highs and lows. There will be many days when you want to quit, find another job, another team. Keep balance in your life, exercise, indulge hobbies and passions outside of work that excite you.",
+            "advice": [
+              "Find good mentors but be intentional about what you work on together and time box it",
+              "Be authentic. People don't expect you to be perfect",
+              "Think ahead, anticipate challenges down the road and plan for different scenarios"
+            ]
+          }
+        },
+        {
+          "id": 97,
+          "front": {
+            "name": "Thiago de Faria",
+            "role": "Migration & Modernization SA",
+            "logo": "AWS",
+            "quote": "Everything is relative; and only that is absolute - Augusto Comte"
+          },
+          "back": {
+            "lesson": "One lesson I learned is that every company that fails, every team that is unhappy, every deadline and specification that is not met... it never happens because of a tech problem. It's all people, communication and its social construct.",
+            "advice": [
+              "Technical skills will change. You know what doesn't change? Working together",
+              "Not burning bridges and not hiding the real reason",
+              "Be kind. People are doing the best with the knowledge and context that they have"
+            ]
+          }
+        },
+        {
+          "id": 98,
+          "front": {
+            "name": "Ishit Vachhrajani",
+            "role": "Director, Enterprise Strategy",
+            "logo": "AWS",
+            "quote": "Quote: Don't mistake activity with achievement - John Wooden"
+          },
+          "back": {
+            "lesson": "Embrace, in fact seek ambiguity. That means you are working on something that is still emerging or moving fast.",
+            "advice": [
+              "Learn to build, bring others along, and tell your story",
+              "Job one is to build a great team. Job two is to remove hurdles in their path",
+              "Motion first, then direction. Don't be afraid to start paddling"
+            ]
+          }
+        },
+        {
+          "id": 98,
+          "front": {
+            "name": "Claire Bourke",
+            "role": "Head of CSM, ANZ",
+            "logo": "AWS",
+            "quote": "Brene Brown quote about being in the arena and feedback"
+          },
+          "back": {
+            "lesson": "The answer to what ever question you have is within - you just might need a great coach to ask the right questions.",
+            "advice": [
+              "Learn to learn everyday. Curate a list of great and diverse inputs",
+              "Intentionally build and nuture your network",
+              "If you are comfortable, chances are you are not growing"
+            ]
+          }
+        },
+        {
+          "id": 100,
+          "front": {
+            "name": "Maureen Lonergan",
+            "role": "VP,AWS Training&Certification",
+            "logo": "AWS",
+            "quote": "Leadership and innovation in technology"
+          },
+          "back": {
+            "lesson": "Build strong relationships and trust within your team and with customers.",
+            "advice": [
+              "Focus on customer outcomes",
+              "Develop both technical and leadership skills",
+              "Create opportunities for others to grow"
+            ]
+          }
+        },
+        {
+          "id": 101,
+          "front": {
+            "name": "Jamie Simon",
+            "role": "Director FSI, ANZ",
+            "logo": "AWS",
+            "quote": "The way you see people is the way you treat them, and the way you treat them is what they become - Wolfgang von Goethe"
+          },
+          "back": {
+            "lesson": "One obvious characteristic of the tech industry is that change is constant, and in many ways it is constantly accelerating.",
+            "advice": [
+              "Be deliberate in where you want to be",
+              "One of the most valuable attributes is empathy",
+              "Be persistent, thorough and polite"
+            ]
+          }
+        },
+        {
+          "id": 102,
+          "front": {
+            "name": "Dave Coombes",
+            "role": "Director SA ISV and FSI ANZ",
+            "logo": "AWS",
+            "quote": "Knowing the name of something, is not the same as knowing something - Richard Feynman"
+          },
+          "back": {
+            "lesson": "Time is the only resource that you can't get more of. Be really intentional about what you say \"yes\" to and what you say \"no\" to.",
+            "advice": [
+              "Skills development comes through intentional learning and career development comes through opportunity",
+              "Remember that although we work in technology, most of what makes work rewarding is the people",
+              "If you think something is wrong, speak up"
+            ]
+          }
+        },
+        {
+          "id": 103,
+          "front": {
+            "name": "Nick Blamey",
+            "role": "Head of Specialist Teams, ANZ",
+            "logo": "AWS",
+            "quote": "We don't wait for opportunities, we create them - Andy Jassy"
+          },
+          "back": {
+            "lesson": "Hiring against a set of well-defined principles or values has an enduring and powerful impact for tech organisations.",
+            "advice": [
+              "Write about your projects, goals and ambitions regularly",
+              "Hire people who are better than you, coach them to find the role that will allow them to build on their strengths",
+              "You can't innovate in a vacuum"
+            ]
+          }
+        },
+        {
+          "id": 104,
+          "front": {
+            "name": "Tarik Makota",
+            "role": "Sr. Principal, Solutions Arch",
+            "logo": "AWS",
+            "quote": "I love it when a plan comes together - Colonel Hannibal Smith"
+          },
+          "back": {
+            "lesson": "As your responsibilities grow, your ways of working should be evolving from \"doing work yourself\" to \"working thru others\".",
+            "advice": [
+              "Take ownership of your learning and sign up for stretch assignments",
+              "Long term goals over tasks, be flexible and adaptable in the journey",
+              "Effort is often underrated, start there"
+            ]
+          }
+        },
+        {
+          "id": 105,
+          "front": {
+            "name": "Tiffany Bloomquist",
+            "role": "Head of Start-ups, APJ",
+            "logo": "AWS",
+            "quote": "Success is never achieved in your comfort zone"
+          },
+          "back": {
+            "lesson": "While you can be excited about an outcome, a goal or even a product you're creating, never, ever, lose sight of the impact you're driving for your customer.",
+            "advice": [
+              "Follow your passion and curiosity!",
+              "Prioritize, prioritize, prioritize. Frugality of time is an important dimension",
+              "Balance the tasks that needed to be completed with the relationships"
+            ]
+          }
+        },
+        {
+          "id": 106,
+          "front": {
+            "name": "Rich Hua",
+            "role": "Head EPIC Leadership Prgm",
+            "logo": "AWS",
+            "quote": "We make a living by what we get, but we make a life by what we give - Winston Churchill"
+          },
+          "back": {
+            "lesson": "A vital lesson I learned is the power of being a linchpin--making yourself uniquely valuable with an outsized impact.",
+            "advice": [
+              "Be a super-absorbent learner. Always strive to discover and understand new things",
+              "Inspirational leadership comes from having high expectations + high care",
+              "Invest in developing your emotional and social intelligence skills"
+            ]
+          }
+        }
+      ]
+    }
+    
+
 
