@@ -1,0 +1,38 @@
+{
+  "cards": [
+      {
+          "id": 1,
+          "front": {
+              "name": "John Anderson",
+              "role": "Solutions Architecture Leader",
+              "logo": "AWS",
+              "quote": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features."
+          },
+          "back": {
+              "lesson": "Throughout my journey in cloud architecture, I've learned that simplicity is the ultimate sophistication. The most elegant solutions are often the ones that are easiest to understand and maintain.",
+              "advice": [
+                  "Always start with the customer and work backwards. Understanding their needs deeply will guide you to the right technical decisions.",
+                  "Embrace automation from day one. What seems manageable manually today will become your biggest bottleneck tomorrow.",
+                  "Build with failure in mind. In distributed systems, failures are inevitable. Design your architecture to be resilient."
+              ]
+          }
+      },
+      {
+          "id": 2,
+          "front": {
+              "name": "Sarah Miller",
+              "role": "Cloud Security Architect",
+              "logo": "AWS",
+              "quote": "Security is not a feature you add later - it's a fundamental aspect of every decision you make."
+          },
+          "back": {
+              "lesson": "The most important lesson I've learned is that security should be built into the foundation of every system, not added as an afterthought.",
+              "advice": [
+                  "Always implement the principle of least privilege.",
+                  "Automate your security controls and monitoring.",
+                  "Regular security audits are your best friend."
+              ]
+          }
+      }
+  ]
+}
