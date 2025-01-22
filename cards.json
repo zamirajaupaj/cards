@@ -247,7 +247,7 @@
                 "type": "quote"
             },
             "back": {
-                "lesson": "As you progress through your career, it is important to know that as you begin to manage others - you are still accountable for their work.Just because you may not be hands on keyboard anymore, you are accountable for the work your team delivers - right or wrong. Being aware of that will help you setup the right governance and oversight to be aware",
+                "lesson": "As a leader, you're still accountable for the quality of work delivered by your team, even if you're not hands-on. Ensure you have the right governance and oversight in place to maintain accuracy, and be prepared to answer questions about your controls and reviews",
                 "advice": [
                     "Build and manage your network. It will open doors, enable mentorship, and be sure to not start building it when you need it - start now!",
                     "Stay current. Continuously learn by listening to podcasts, reading books, videos, and articles. Take the time to go deep into topics to expand your knowledge base and bring new perspectives to your work.",
@@ -866,7 +866,7 @@
         {
             "id": 51,
             "front": {
-                "name": "Luca Mezzarila",
+                "name": "Luca Mezzalira",
                 "role": "Principal Solutions Serverless",
                 "type": "quote",
                 "quote": "\"The journey of a thousand miles begins with one step.\" - Lao Tzu"
@@ -875,8 +875,8 @@
                 "lesson": "In life, you never truly lose. You either win or learn, and in both cases, it's a success. Society has taught us that losing, being rejected, or not meeting certain standards is wrong, and we often feel inadequate for not conforming to others' expectations.",
                 "advice": [
                     "Push yourself outside your comfort zone: pushing ourselves outside our comfort zone helps our growth and personal development, it fosters resilience, adaptability, and the discovery of untapped potential.",
-                    "Distributed systems are living systems: we often don’t acknowledge that culture, organization structure and architecture are tightly coupled to create a system. When we do, we start seeing things differently, from different perspectives, providing the multi-dimensional view that every organization requires to thrive and succeed with their intention",
-                    "Continuous learning: it allows us to continuously expand our knowledge base and skill set, enabling us to adapt to evolving circumstances and seize new opportunities. By connecting the dots across various areas of expertise, we not only deepen our understanding but also foster innovation and creativity, ultimately enhancing our expertise and capacity for problem-solving."
+                    "Distributed systems are living systems: we often don’t acknowledge that culture, organization structure and architecture are linked to create a system. When we do, we start see things differently, providing the multi-dimensional view that every organization requires",
+                    "Continuous learning: it allows us to continuously expand our knowledge base and skill set, enabling us to adapt to evolving circumstances and seize new opportunities."
                 ]
             }
         },
