@@ -19,23 +19,6 @@
         },
         {
             "front": {
-                "id": 2,
-                "name": "Yasser Hassan",
-                "role": "Director, MENA and Turkey",
-                "quote": "\"It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.\" Rocky balboa Sylvester Stallone",
-                "type": "quote"
-            },
-            "back": {
-                "lesson": "Developing the people in your organization is crucial. Companies that prioritize their employees' growth and development will expand more rapidly than others. While you may still lose some talent to other companies, consistently investing in your employees ensures your business growså.",
-                "advice": [
-                    "The pace of change in the tech industry has accelerated dramatically. This frequency then increased to every five years, and now, major changes happen every six months. Our customers are more knowledgeable and informed than ever before, demanding specific use cases and subject matter expertise rather than just general technology awareness.",
-                    "The most valuable experiences often stem from embracing change. When you welcome change, success isn't always guaranteed; instead, you may encounter cycles of failures. However, these failures teach us more than successes, offering a wealth of lessons and insights.",
-                    "Team building and people management are essential skills for any manager. Having a diverse team is crucial for the future success of any company. Diversity brings together a range of educational backgrounds, experiences, and perspectives, which can elevate a team's performance to new heights."
-                ]
-            }
-        },
-        {
-            "front": {
                 "id": 3,
                 "name": "Eric Johnson",
                 "role": "Principal Developer Advocate",
@@ -53,7 +36,7 @@
         },
         {
             "front": {
-                "id": 4,
+                "id": 3,
                 "name": "Margo Cronin",
                 "role": "Principal Specialist Solution Architect",
                 "quote": "\"The mind is a wonderful servant and terrible master.\" - Robin S. Sharma",
@@ -70,7 +53,7 @@
         },
         {
             "front": {
-                "id": 5,
+                "id": 4,
                 "name": "Joathan Allen",
                 "role": "Director, Enterprise Strategy",
                 "quote": "\"All of your assumed constraints are debatable.\" - Joathan Allen ",
@@ -87,7 +70,7 @@
         },
         {
             "front": {
-                "id": 6,
+                "id": 5,
                 "name": "Miguel Álava Tejera",
                 "role": "Director Tech Sales",
                 "quote": "\"Leading Without Authority\" - Keith Ferrazzi",
@@ -104,7 +87,7 @@
         },
         {
             "front": {
-                "id": 7,
+                "id": 6,
                 "name": "Tomas Jan Soderstrom",
                 "role": "Enterprise Strategist",
                 "quote": "📚 How to get your point across in 30 seconds by Milo O. Frank, and The One-Minute Manager by Kenneth Blanchard Ph.D.",
@@ -121,7 +104,7 @@
         },
         {
             "front": {
-                "id": 8,
+                "id": 7,
                 "name": "David Elliott",
                 "role": "Director, Head of Architecture",
                 "quote": "\"Ego, Authority, Failure\" - Derek Gaunt. An interesting book that highlights the pitfalls of ego",
@@ -138,7 +121,7 @@
         },
         {
             "front": {
-                "id": 9,
+                "id": 8,
                 "name": "Danilo Poccia",
                 "role": "Principal Developer Advocate",
                 "quote": "\"Simplicity is the ultimate sophistication\" - Leonardo Da Vinci",
@@ -155,7 +138,7 @@
         },
         {
             "front": {
-                "id": 10,
+                "id": 9,
                 "name": "Ran Tessler",
                 "role": "Dir, Solutions Architecture",
                 "quote": "\"Trust takes years to build, seconds to break, and forever to repair\"",
@@ -172,7 +155,7 @@
         },
         {
             "front": {
-                "id": 11,
+                "id": 10,
                 "name": "Gus Santana",
                 "role": "Geo SDT Leader",
                 "quote": "\"Nobody cares how much you know until they know how much you care.\" - Theodore Roosevelt",
@@ -189,7 +172,7 @@
         },
         {
             "front": {
-                "id": 12,
+                "id": 11,
                 "name": "Julian Wood",
                 "role": "Principal Developer Advocate",
                 "quote": "\"What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.\" - Nelson Mandela",
@@ -206,7 +189,7 @@
         },
         {
             "front": {
-                "id": 13,
+                "id": 12,
                 "name": "Phil Le-Brun",
                 "role": "Director, Enterprise Strategy",
                 "quote": "\"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.\" – Albert Einstein",
@@ -223,7 +206,7 @@
         },
         {
             "front": {
-                "id": 14,
+                "id": 13,
                 "name": "Stephan Hadinger",
                 "role": "Head of Technology",
                 "quote": "\"I never lose. I either win or learn.\" - Nelson Mandela",
@@ -240,7 +223,7 @@
         },
         {
             "front": {
-                "id": 15,
+                "id": 14,
                 "name": "Arthur Bailey",
                 "role": "Director, EMEA & LATAM AR",
                 "quote": "\"You can kill a man, but you can't kill an idea.\" - Sophocles",
@@ -257,7 +240,7 @@
         },
         {
             "front": {
-                "id": 16,
+                "id": 15,
                 "name": "Chris Hennesey",
                 "role": "Enterprise Finance Strategist",
                 "quote": "\"Your network is your net worth\" - Tim Sanders",
@@ -273,7 +256,7 @@
             }
         },
         {
-            "id": 17,
+            "id": 16,
             "front": {
                 "name": "Margaret O'Toole",
                 "role": "World Wide Tech Leader - Sustainability",
@@ -291,7 +274,7 @@
             }
         },
         {
-            "id": 18,
+            "id": 17,
             "front": {
                 "name": "Elena Rudenko",
                 "role": "Managing Director, EMEA Go-to-Market Strategy",
@@ -308,7 +291,7 @@
             }
         },
         {
-            "id": 19,
+            "id": 18,
             "front": {
                 "name": "Mark Birch",
                 "role": "Global Startup Advocate",
@@ -326,7 +309,7 @@
             }
         },
         {
-            "id": 20,
+            "id": 19,
             "front": {
                 "name": "Martyn Storey",
                 "role": "Head of GTM Strategy and Architecture",
@@ -344,7 +327,7 @@
             }
         },
         {
-            "id": 21,
+            "id": 20,
             "front": {
                 "name": "Kamil Davidov",
                 "role": "Senior Manager - CSM Manager",
@@ -362,7 +345,7 @@
             }
         },
         {
-            "id": 22,
+            "id": 21,
             "front": {
                 "name": "Rahul Shukla",
                 "role": "Director Client Relation Ops",
@@ -379,7 +362,7 @@
             }
         },
         {
-            "id": 23,
+            "id": 22,
             "front": {
                 "name": "Colin Bonney",
                 "role": "Sr Mgr Customer Solutions Management",
@@ -396,7 +379,7 @@
             }
         },
         {
-            "id": 24,
+            "id": 23,
             "front": {
                 "name": "Armando Martines Neto",
                 "role": "Head of EMEA Solution Architecture",
@@ -413,7 +396,7 @@
             }
         },
         {
-            "id": 25,
+            "id": 24,
             "front": {
                 "name": "Matthias Patzak",
                 "role": "Enterprise Strategist",
@@ -430,7 +413,7 @@
             }
         },
         {
-            "id": 26,
+            "id": 25,
             "front": {
                 "name": "Tobias Börjeson",
                 "role": "Head of Technology, Nordics",
@@ -447,7 +430,7 @@
             }
         },
         {
-            "id": 27,
+            "id": 26,
             "front": {
                 "name": "Brandon Carroll",
                 "role": "Sr. Product Marketing Manager",
@@ -464,7 +447,7 @@
             }
         },
         {
-            "id": 28,
+            "id": 27,
             "front": {
                 "name": "Norihisa Tsuruta",
                 "role": "Director, Japan FSI",
@@ -481,7 +464,7 @@
             }
         },
         {
-            "id": 29,
+            "id": 28,
             "front": {
                 "name": "Sebastien Stormacq",
                 "role": "Principal Developer Advocate",
@@ -499,24 +482,7 @@
             }
         },
         {
-            "id": 30,
-            "front": {
-                "name": "Eduardo Ordax",
-                "role": "Solutions Architect",
-                "type": "quote",
-                "quote": "\"Work hard, have fun, make history.\" - Jeff Bezos"
-            },
-            "back": {
-                "lesson": "You will always find people who know much more than you, try to leverage them to boost your skills",
-                "advice": [
-                    "Learn and be curious. Tech industry is evolving super fast, specially fields like Artificial Intelligence. This requires to continually learn new things and be updated with the latest research.",
-                    "Ownership. Don't expect from others to build a plan for you... Work on your long term goals and identify which are the outputs that will help you to achieve the goal and work backwards from there. Processes, mechanisms and finally the inputs. Yo must take ownership of it along the entire process.",
-                    "Enjoy what you do"
-                ]
-            }
-        },
-        {
-            "id": 31,
+            "id": 29,
             "front": {
                 "name": "Mark Schwartz",
                 "role": "Director, Enterprise Strategy",
@@ -533,7 +499,7 @@
             }
         },
         {
-            "id": 32,
+            "id": 30,
             "front": {
                 "name": "Brooke Jamieson",
                 "role": "Senior Developer Advocate",
@@ -550,7 +516,7 @@
             }
         },
         {
-            "id": 33,
+            "id": 31,
             "front": {
                 "name": "Nithya Ruff",
                 "role": "Director - Amazon OSPO",
@@ -568,7 +534,7 @@
             }
         },
         {
-            "id": 34,
+            "id": 32,
             "front": {
                 "name": "Matt Wood",
                 "role": "VP, AI",
@@ -585,7 +551,7 @@
             }
         },
         {
-            "id": 35,
+            "id": 33,
             "front": {
                 "name": "Yoji Harada",
                 "role": "Executive Officer, Director, Scale Sales ",
@@ -602,24 +568,7 @@
             }
         },
         {
-            "id": 36,
-            "front": {
-                "name": "Keith Homewood",
-                "role": "Senior SA Manager, EMEA",
-                "type": "quote",
-                "quote": "\"Everything fails, all of the time.\"– Werner Vogels"
-            },
-            "back": {
-                "lesson": "One lesson I learned is not to assume even when you are pretty sure of something. Question everything upfront.",
-                "advice": [
-                    "Treat yourself like your own customer and work backwards with yourself. Imagine yourself in some future (1-5y from now) and you are happy in your career, ask yourself why that version of you is happy.  backwards away from what makes you happy is terrible.",
-                    "Never stop learning but remember it isn't just technology. Pay attention to industry trends, soft skill development, and about your customers.",
-                    "Remember you can't help anyone else if you don't help yourself and prioritze self-care. It's like on the airplane 'In the event of an emergency put your own mask on before helping others.'"
-                ]
-            }
-        },
-        {
-            "id": 37,
+            "id": 34,
             "front": {
                 "name": "Matheus Guimaraes",
                 "role": "Senior Developer Advocate",
@@ -636,7 +585,7 @@
             }
         },
         {
-            "id": 38,
+            "id": 35,
             "front": {
                 "name": "Nitin Bawankule",
                 "role": "Director, India TMEGS",
@@ -653,7 +602,7 @@
             }
         },
         {
-            "id": 39,
+            "id": 36,
             "front": {
                 "name": "Sundar Ram VG",
                 "role": "Director, India Specialist",
@@ -671,7 +620,7 @@
             }
         },
         {
-            "id": 40,
+            "id": 37,
             "front": {
                 "name": "Rafael Bautista",
                 "role": "Head of DevRel Growth Progams",
@@ -689,7 +638,7 @@
             }
         },
         {
-            "id": 41,
+            "id": 38,
             "front": {
                 "name": "Kathy Kam",
                 "role": "Director Software Development",
@@ -707,7 +656,7 @@
             }
         },
         {
-            "id": 42,
+            "id": 39,
             "front": {
                 "name": "Hiroyuki Tsutsumi",
                 "role": "Director, Cross Ind Vertical",
@@ -724,7 +673,7 @@
             }
         },
         {
-            "id": 43,
+            "id": 40,
             "front": {
                 "name": "Amelie Clugnet",
                 "role": "Director, Europe South",
@@ -741,7 +690,7 @@
             }
         },
         {
-            "id": 44,
+            "id": 41,
             "front": {
                 "name": "Donnie Prakoso",
                 "role": "Principal Developer Advocate",
@@ -758,24 +707,7 @@
             }
         },
         {
-            "id": 45,
-            "front": {
-                "name": "Tim Peters",
-                "role": "Director WWCS Customer Segments",
-                "type": "quote",
-                "quote": "\"Be the change you want to see in the world.\" - Ghandi"
-            },
-            "back": {
-                "lesson": "Simple is better. In Leadership - clarity of purpose brings teams together. In Design - customers more easily buy, use and brag about a product that is well understood and simple to use.",
-                "advice": [
-                    "Position yourself to be agile and willing to try (and learn from) multiple disciplines across development and field-based roles, thus making yourself available to a broader range of possibilities.",
-                    "Be humble, but strive for greatness. You work with people to get things done no matter the role. Want them to want to work with you (and for you).",
-                    "Earn trust always. Relationships make or break people. Break trust -> break relationship -> compromise your journey."
-                ]
-            }
-        },
-        {
-            "id": 46,
+            "id": 42,
             "front": {
                 "name": "Jeff Barr",
                 "role": "VP, quote Evangelism",
@@ -792,7 +724,7 @@
             }
         },
         {
-            "id": 47,
+            "id": 43,
             "front": {
                 "name": "James Horsley",
                 "role": "Senior Principal Engineer",
@@ -809,7 +741,7 @@
             }
         },
         {
-            "id": 48,
+            "id": 44,
             "front": {
                 "name": "Ushio Usami",
                 "role": "Director, Japan Public Sector",
@@ -826,7 +758,7 @@
             }
         },
         {
-            "id": 49,
+            "id": 45,
             "front": {
                 "name": "Farhin Khan",
                 "role": "Sr Mgr GTM Spec D&AI UK",
@@ -843,7 +775,7 @@
             }
         },
         {
-            "id": 50,
+            "id": 46,
             "front": {
                 "name": "Martin Elwin",
                 "role": "Director SA, Europe North",
@@ -861,7 +793,7 @@
             }
         },
         {
-            "id": 51,
+            "id": 47,
             "front": {
                 "name": "Mahin Sonia",
                 "role": "Sr Mgr, Partner SA, APJ",
@@ -879,7 +811,7 @@
             }
         },
         {
-            "id": 52,
+            "id": 48,
             "front": {
                 "name": "Adrian De Luca",
                 "role": "Head of APJ Cloud Acceleration",
@@ -897,7 +829,7 @@
             }
         },
         {
-            "id": 53,
+            "id": 49,
             "front": {
                 "name": "Chris Casey",
                 "role": "Director, APJ Partner Mgmt",
@@ -915,7 +847,7 @@
             }
         },
         {
-            "id": 54,
+            "id": 50,
             "front": {
                 "name": "Matty Noble",
                 "role": "Sr Principal Engineer",
@@ -932,7 +864,7 @@
             }
         },
         {
-            "id": 55,
+            "id": 51,
             "front": {
                 "name": "Luca Mezzarila",
                 "role": "Principal Solutions Serverless",
@@ -949,7 +881,7 @@
             }
         },
         {
-            "id": 56,
+            "id": 52,
             "front": {
                 "name": "Ricardo Sueiras",
                 "role": "Principal Developer Advocate",
@@ -967,7 +899,7 @@
             }
         },
         {
-            "id": 57,
+            "id": 53,
             "front": {
                 "name": "Ivo Pinto",
                 "role": "Principal Solutions Architect",
@@ -984,24 +916,7 @@
             }
         },
         {
-            "id": 58,
-            "front": {
-                "name": "Anonymous",
-                "role": "VP",
-                "type": "quote",
-                "quote": "What would you do if you weren't afraid? And then go do it - Sheryl Sandberg"
-            },
-            "back": {
-                "lesson": "Build your resiliency. Hard work doesn't always guarantee success. My journey taught me to diversify my efforts across multiple projects, skills, and initiatives. This approach transforms setbacks into mere obstacles, ensuring one failure doesn't define my career. Resilience is about being adaptable and prepared for change.",
-                "advice": [
-                    "Networking. Actively attend industry conferences and volunteer. Forge genuine connections by aiding others. You'll gain insights and grow by uplifting those around you.",
-                    "Think Long-term: Define your biography for the next five years and methodically work towards it. Embrace setbacks as learning opportunities. Stay patient and adaptable to shifts, focusing on your long-term goals",
-                    "Expand Your Influence: Produce content within your field to stay current and demonstrate your expertise. This way you boost your adaptability and visibility, opening doors to new opportunities and growth."
-                ]
-            }
-        },
-        {
-            "id": 59,
+            "id": 54,
             "front": {
                 "name": "Jen Looper",
                 "role": "Head of Academic Advocacy",
@@ -1018,7 +933,7 @@
             }
         },
         {
-            "id": 60,
+            "id": 55,
             "front": {
                 "name": "Farrah Campbell",
                 "role": "Head of Dev Advisory Programs",
@@ -1035,24 +950,7 @@
             }
         },
         {
-            "front": {
-                "id": 61,
-                "name": "Miriam McLemore",
-                "role": "Director, Enterprise Strategy",
-                "quote": "📚How Forward-Thinking Leaders are Redefining Business Resilience",
-                "type": "book"
-            },
-            "back": {
-                "lesson": "Zamira - complied",
-                "advice": [
-                    "The importance of building networks and Identifying gaps and opportunities where I can add value",
-                    "Insights on pushing through imposter syndrome and taking on challenges without hesitation",
-                    "As women, we sometimes feel we need to be fully qualified before taking on new challenges, but that's not true. You have to be willing to take risks and not wait on the sidelines"
-                ]
-            }
-        },
-        {
-            "id": 62,
+            "id": 56,
             "front": {
                 "name": "Veliswa Boya",
                 "role": "Sr Developer Advocate",
@@ -1069,7 +967,7 @@
             }
         },
         {
-            "id": 63,
+            "id": 57,
             "front": {
                 "name": "Sangeetha Ananthasankar",
                 "role": "Sr Manager, Software Dev",
@@ -1086,7 +984,7 @@
             }
         },
         {
-            "id": 64,
+            "id": 58,
             "front": {
                 "name": "Eric Gales",
                 "role": "Country Manager Canada",
@@ -1103,7 +1001,7 @@
             }
         },
         {
-            "id": 65,
+            "id": 59,
             "front": {
                 "name": "Lajos Lange",
                 "role": "EMEA Leader, Ent Technologist",
@@ -1120,7 +1018,7 @@
             }
         },
         {
-            "id": 66,
+            "id": 60,
             "front": {
                 "name": "Julia Ferraioli",
                 "role": "Senior OSS Strategist",
@@ -1137,7 +1035,7 @@
             }
         },
         {
-            "id": 67,
+            "id": 61,
             "front": {
                 "name": "Constantin Gonzalez",
                 "role": "Principal, Solutions Architecture",
@@ -1154,7 +1052,7 @@
             }
         },
         {
-            "id": 68,
+            "id": 62,
             "front": {
                 "name": "Shalini Kapoor",
                 "role": "Dir Sr Enterprise Technologist",
@@ -1171,7 +1069,7 @@
             }
         },
         {
-            "id": 69,
+            "id": 63,
             "front": {
                 "name": "John Davies",
                 "role": "Director, UK Public Sector",
@@ -1188,7 +1086,7 @@
             }
         },
         {
-            "id": 70,
+            "id": 64,
             "front": {
                 "name": "Jason Bath",
                 "role": "So WWSO EMEA Leader BD",
@@ -1205,7 +1103,7 @@
             }
         },
         {
-            "id": 71,
+            "id": 65,
             "front": {
                 "name": "Tom Godden",
                 "role": "Director, Enterprise Strategy",
@@ -1222,7 +1120,7 @@
             }
         },
         {
-            "id": 72,
+            "id": 66,
             "front": {
                 "name": "Roland Barcia",
                 "role": "Dir, Specialist SA and Tech",
@@ -1239,7 +1137,7 @@
             }
         },
         {
-            "id": 73,
+            "id": 67,
             "front": {
                 "name": "Adam Seligman",
                 "role": "VP, Developer Experience",
@@ -1256,7 +1154,7 @@
             }
         },
         {
-            "id": 74,
+            "id": 68,
             "front": {
                 "name": "Rianne van Veldhuizen",
                 "role": "Managing Director ANZ",
@@ -1273,7 +1171,7 @@
             }
         },
         {
-            "id": 75,
+            "id": 69,
             "front": {
                 "name": "Yukiko Sato",
                 "role": "Director, Japan DNB & ISV",
@@ -1290,7 +1188,7 @@
             }
         },
         {
-            "id": 77,
+            "id": 70,
             "front": {
                 "name": "Rejean Bourgault",
                 "role": "Director Canada WWPS",
@@ -1307,7 +1205,7 @@
             }
         },
         {
-            "id": 77,
+            "id": 71,
             "front": {
                 "name": "Soo Lee",
                 "role": "Dir, WW Strategic Alliances",
@@ -1324,7 +1222,7 @@
             }
         },
         {
-            "id": 78,
+            "id": 72,
             "front": {
                 "name": "Jens Greiner",
                 "role": "Enterprise Technologist",
@@ -1341,7 +1239,7 @@
             }
         },
         {
-            "id": 79,
+            "id": 73,
             "front": {
                 "name": "Jorrit Van der Meulen",
                 "role": "VP, EU Stores",
@@ -1358,7 +1256,7 @@
             }
         },
         {
-            "id": 80,
+            "id": 74,
             "front": {
                 "name": "Alex Martinez",
                 "role": "Director Solutions Architecture WW Public Sector",
@@ -1375,7 +1273,7 @@
             }
         },
         {
-            "id": 81,
+            "id": 75,
             "front": {
                 "name": "Geries AbouAyash",
                 "role": "Director, AGS NAMER Tech",
@@ -1392,7 +1290,7 @@
             }
         },
         {
-            "id": 82,
+            "id": 76,
             "front": {
                 "name": "Arvind Mathur",
                 "role": "Enterprise Strategist",
@@ -1409,7 +1307,7 @@
             }
         },
         {
-            "id": 83,
+            "id": 77,
             "front": {
                 "name": "Nicola Gerber",
                 "role": "APJ Head of Cloud Sales Center",
@@ -1426,7 +1324,7 @@
             }
         },
         {
-            "id": 84,
+            "id": 78,
             "front": {
                 "name": "Sandra Teh",
                 "role": "Sr. Marketing Mgr, EMEA/APJC",
@@ -1443,7 +1341,7 @@
             }
         },
         {
-            "id": 85,
+            "id": 79,
             "front": {
                 "name": "Massimo Re Ferre",
                 "role": "Sr. Principal, Product Mgr",
@@ -1460,7 +1358,7 @@
             }
         },
         {
-            "id": 86,
+            "id": 80,
             "front": {
                 "name": "Mike Eastman",
                 "role": "Dir, Amer Cloud Sales Center",
@@ -1477,24 +1375,7 @@
             }
         },
         {
-            "id": 87,
-            "front": {
-                "name": "Stijn Buiter",
-                "role": "Europe North, SUP Sales Leader",
-                "type": "quote",
-                "quote": "\"Focus on long term success, but be willing to make short term adjustments to get there\" - Simon Sinek"
-            },
-            "back": {
-                "lesson": "Focus on the customer and don't be afraid to escalate when truly needed. (if a customer is truly impacted, you'll be amazed how flat this organization can be to do the right thing for the customer)",
-                "advice": [
-                    "Dedicate time to learn and dive deep, don't be afraid to say no, be ready to adapt to change any time",
-                    "Know yourself, your strengths and weaknesses, combine that with the power of saying no/have clear focus areas, based on that prioritize long term success and create short term goals towards that.",
-                    "Trust others, don't do everything yourself. If you lead with that mindset, while creating clear measurable outcomes to inspect, you can be efficient and high performing, while having a strong and loyal team."
-                ]
-            }
-        },
-        {
-            "id": 88,
+            "id": 81,
             "front": {
                 "name": "Adam Driver",
                 "role": "Director, US Specialist, SA",
@@ -1511,7 +1392,7 @@
             }
         },
         {
-            "id": 89,
+            "id": 82,
             "front": {
                 "name": "Tanuja Randery",
                 "role": "VP, Commercial Sales & BD EMEA",
@@ -1528,7 +1409,7 @@
             }
         },
         {
-            "id": 90,
+            "id": 83,
             "front": {
                 "name": "Anandhi Bumstead",
                 "role": "Director, Software Development",
@@ -1545,7 +1426,7 @@
             }
         },
         {
-            "id": 91,
+            "id": 84,
             "front": {
                 "name": "Greg Proulx",
                 "role": "Dir, Business Innovation & Ops",
@@ -1562,7 +1443,7 @@
             }
         },
         {
-            "id": 92,
+            "id": 85,
             "front": {
                 "name": "Justin Callison",
                 "role": "Director, quote Workflow - Step Functions",
@@ -1579,7 +1460,7 @@
             }
         },
         {
-            "id": 93,
+            "id": 86,
             "front": {
                 "name": "Brian Bohan",
                 "role": "Director, quote Strat/Bus Dev",
@@ -1596,25 +1477,7 @@
             }
         },
         {
-            "id": 94,
-            "front": {
-                "name": "Danielle Gorlick",
-                "role": "Director of Benelux AGS",
-                "type": "book",
-                "quote": "📚Legacy: 15 Lessons in Leadership what the All Blacks can teach us about the business of life by James Kerr.",
-                "book": "📚Legacy: 15 Lessons in Leadership what the All Blacks can teach us about the business of life by James Kerr."
-            },
-            "back": {
-                "lesson": "The most important lesson I've learned is that success in technology isn't just about technical skills.",
-                "advice": [
-                    "Make sure that you have a plan working backwards from your North Star where you define the key skills you need to acquire over a specific period of time in order to reach that North star you are aiming for.",
-                    "No matter where you are in your career, in order to be successful in technology I think you need to have a curious mindset with the desire to learn from your peers, team members, thought leaders and customers. The technology space is constantly evolving so having that always on learning mindset will enable you to remain relevant and to add the most value to your teams, customers and partners.",
-                    "Make sure you are developing your soft skills, such as, communication and empathy. This becomes more crucial as you move into leadership roles, as the ability to communicate a clear vision, goals and priorities and leading your team to achieve that mission or goal with the right level of empathy will create clarity for the team, builds trust and encourages collaboration towards a common goal."
-                ]
-            }
-        },
-        {
-            "id": 95,
+            "id": 87,
             "front": {
                 "name": "Julien Lépine",
                 "role": "Dir, Solutions Architecture",
@@ -1631,7 +1494,7 @@
             }
         },
         {
-            "id": 96,
+            "id": 88,
             "front": {
                 "name": "Melanie McGrory",
                 "role": "EMEA Director of Technology",
@@ -1648,24 +1511,7 @@
             }
         },
         {
-            "id": 97,
-            "front": {
-                "name": "Michael Choe",
-                "role": "Director, US Auto & Mfg",
-                "type": "quote",
-                "quote": "\"Identify your problems, but give your Power and Energy to solutions.\" Tony Robbins"
-            },
-            "back": {
-                "lesson": "I've learned that change happens faster than you think and that rate of change is increasing as the years pass. Therefore, when you see a signal, no matter how small it is, it's important to develop an ability to see if that signal is going to turn into something big. This will allow you to be more prepared to capitalize on change.",
-                "advice": [
-                    "First, define what growth means to you. Simple answer is title and org size, but I think it's more impactful to really understand what does growth mean to you at any given time. This could be broader exposure, more visibility, learning new things. In the culture of Amazon, taking a broader view of career growth will pay off for you in the long run.",
-                    "1/ Learn to be a good communicator - to your manager, to your peers, to your customers (internal/external), to your org. 2/ Don't waste too much time fighting gravity. We work for big companies that are always evolving and changing. 3/ Always be curious and never lose your humility as you do that.",
-                    "Strive for self-awareness to become a real authentic leader. Practice being vocally self critical, it will help you earn trust. Learn what Prioritization means to YOU. For me, it was identifying no more than 2-3 no fail missions that I was really convicted on navigating any headwinds to achieve."
-                ]
-            }
-        },
-        {
-            "id": 98,
+            "id": 89,
             "front": {
                 "name": "Santanu Dutt",
                 "role": "Director, APJ Tech",
@@ -1682,7 +1528,7 @@
             }
         },
         {
-            "id": 99,
+            "id": 90,
             "front": {
                 "name": "Michael Rambold",
                 "role": "Sr Mgr, Solutions Architecture",
@@ -1699,7 +1545,7 @@
             }
         },
         {
-            "id": 100,
+            "id": 91,
             "front": {
                 "name": "Tom Maddox",
                 "role": "EMEA SMB SA leader",
@@ -1716,7 +1562,7 @@
             }
         },
         {
-            "id": 101,
+            "id": 92,
             "front": {
                 "name": "Luke Anderson",
                 "role": "Director, GTM Spec. D&AI APJ",
@@ -1733,7 +1579,7 @@
             }
         },
         {
-            "id": 102,
+            "id": 93,
             "front": {
                 "name": "Toshihiko Yasuda",
                 "role": "Director, Japan Specialist",
@@ -1750,7 +1596,7 @@
             }
         },
         {
-            "id": 103,
+            "id": 94,
             "front": {
                 "name": "Ben Cabanas",
                 "role": "Director, AGS APJ Technology",
@@ -1767,7 +1613,7 @@
             }
         },
         {
-            "id": 104,
+            "id": 95,
             "front": {
                 "name": "Max Amordeluso",
                 "role": "&AI SSA leader North",
@@ -1784,7 +1630,7 @@
             }
         },
         {
-            "id": 105,
+            "id": 96,
             "front": {
                 "name": "Adam Broda",
                 "role": "Sr. Manager, Product Management - Worldwide ",
@@ -1801,24 +1647,7 @@
             }
         },
         {
-            "id": 106,
-            "front": {
-                "name": "Cleber Pereira De Morais",
-                "role": "Managing Director, LATAM",
-                "type": "quote",
-                "quote": "\"I believe that great leaders are build by the incredible people around them\""
-            },
-            "back": {
-                "lesson": "Trust your instincts and believe in your intuition. Most mistake I've made happened when I went against my own perceptions or what I truly believe.",
-                "advice": [
-                    "To focus and continuous learning and adaptability. Network is also key - Building connections within the industry can open doors to new opportunities.",
-                    "Technology is constantly evolving, so I make it a priority to stay curious and open to learn new skills , tools and frameworks.",
-                    "Communication Skills (I studied theater). and Maintain a positive attitude toward any outlook. Challenges will arise, and the most important thing is how you learn from mistakes and use them to grow and propel yourself forward"
-                ]
-            }
-        },
-        {
-            "id": 107,
+            "id": 97,
             "front": {
                 "name": "Juan-Carlos Gutierrez",
                 "role": "Mng Director,LATAM Tech&Innov",
@@ -1835,7 +1664,7 @@
             }
         },
         {
-            "id": 108,
+            "id": 98,
             "front": {
                 "name": "Michael Schmidt",
                 "role": "PSA Director, WW IndustrySolns",
@@ -1852,7 +1681,7 @@
             }
         },
         {
-            "id": 109,
+            "id": 99,
             "front": {
                 "name": "Thiago de Faria",
                 "role": "Migration & Modernization SA",
@@ -1869,7 +1698,7 @@
             }
         },
         {
-            "id": 110,
+            "id": 100,
             "front": {
                 "name": "Ishit Vachhrajani",
                 "role": "Director, Enterprise Strategy",
@@ -1887,7 +1716,7 @@
         },
         {
             "front": {
-                "id": 111,
+                "id": 101,
                 "name": "Claire Bourke",
                 "role": "Head of CSM, ANZ",
                 "quote": "\"If you are not in the arena getting your ass kicked on occasion, I am not interested in or open to your feedback. \" - Brene Brown",
@@ -1904,24 +1733,7 @@
         },
         {
             "front": {
-                "id": 112,
-                "name": "Maureen Lonergan",
-                "role": "VP,quote Training & Certification",
-                "quote": "\"Education is the most powerful weapon which you can use to change the world. \" -  Nelson Mandela",
-                "type": "quote"
-            },
-            "back": {
-                "lesson": "Empathy goes a long way when leading teams.",
-                "advice": [
-                    "Prioritize continuous learning throughout your career. Find really good mentors that will help guide you.",
-                    "Staying focused on the things that will have the biggest impact for customers. Spend time learning everyday. Don't be afraid of failure.",
-                    "Work hard, stay focused, learn everyday and balance the things that matter."
-                ]
-            }
-        },
-        {
-            "front": {
-                "id": 113,
+                "id": 102,
                 "name": "Jamie Simon",
                 "role": "Director FSI, ANZ",
                 "quote": "\"The way you see people is the way you treat them, and the way you treat them is what they become.\" - Wolfgang von Goethe",
@@ -1938,7 +1750,7 @@
         },
         {
             "front": {
-                "id": 114,
+                "id": 103,
                 "name": "Dave Coombes",
                 "role": "Director SA ISV and FSI ANZ",
                 "quote": "\"Knowing the name of something, is not the same as knowing something\" - Richard Feynman",
@@ -1955,7 +1767,7 @@
         },
         {
             "front": {
-                "id": 115,
+                "id": 104,
                 "name": "Nick Blamey",
                 "role": "Head of Specialist Teams, ANZ",
                 "quote": "\"We don't wait for opportunities, we create them.\" - Andy Jassy",
@@ -1972,7 +1784,7 @@
         },
         {
             "front": {
-                "id": 116,
+                "id": 105,
                 "name": "Tarik Makota",
                 "role": "Sr. Principal, Solutions Arch",
                 "quote": "\"I love it when a plan comes together\" - Colonel Hannibal Smith The A-Team :O)",
@@ -1989,7 +1801,7 @@
         },
         {
             "front": {
-                "id": 117,
+                "id": 106,
                 "name": "Tiffany Bloomquist",
                 "role": "Head of Start-ups, APJ",
                 "quote": "\"Success is never achieved in your comfort zone. Open every door you possibly can. The doors that close..let them close. And keep walking through the ones that remain open.\"",
@@ -2006,7 +1818,7 @@
         },
         {
             "front": {
-                "id": 118,
+                "id": 107,
                 "name": "Rich Hua",
                 "role": "Head EPIC Leadership Prgm",
                 "quote": "\"We make a living by what we get, but we make a life by what we give.\" - Winston Churchill",
@@ -2018,6 +1830,194 @@
                     "Be a super-absorbent learner. Always strive to discover and understand new things, especially what you may be wrong about. Supercharge this by proactively seeking insights about yourself--ask for advice and feedback rather than wait for it.",
                     "Inspirational leadership comes from having high expectations + high care. The latter is harder than the former. The foundation of care is understanding--knowing the pains, challenges, hopes and dreams of your people and then doing something to support them.",
                     "Invest in developing your emotional and social intelligence skills. Research has found that it's your EQ--not your IQ--that accounts for most of your long-term success. IQ skills are threshold abilities, whereas EQ skills are distinguishing abilities (they make you a star)."
+                ]
+            }
+        },
+        {
+            "front": {
+                "id": 108,
+                "name": "Yasser Hassan",
+                "role": "Director, MENA and Turkey",
+                "quote": "\"It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.\" Rocky balboa Sylvester Stallone",
+                "type": "quote"
+            },
+            "back": {
+                "lesson": "Developing the people in your organization is crucial. Companies that prioritize their employees' growth and development will expand more rapidly than others. While you may still lose some talent to other companies, consistently investing in your employees ensures your business growså.",
+                "advice": [
+                    "The pace of change in the tech industry has accelerated dramatically. This frequency then increased to every five years, and now, major changes happen every six months. Our customers are more knowledgeable and informed than ever before, demanding specific use cases and subject matter expertise rather than just general technology awareness.",
+                    "The most valuable experiences often stem from embracing change. When you welcome change, success isn't always guaranteed; instead, you may encounter cycles of failures. However, these failures teach us more than successes, offering a wealth of lessons and insights.",
+                    "Team building and people management are essential skills for any manager. Having a diverse team is crucial for the future success of any company. Diversity brings together a range of educational backgrounds, experiences, and perspectives, which can elevate a team's performance to new heights."
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "front": {
+                "name": "Eduardo Ordax",
+                "role": "Solutions Architect",
+                "type": "quote",
+                "quote": "\"Work hard, have fun, make history.\" - Jeff Bezos"
+            },
+            "back": {
+                "lesson": "You will always find people who know much more than you, try to leverage them to boost your skills",
+                "advice": [
+                    "Learn and be curious. Tech industry is evolving super fast, specially fields like Artificial Intelligence. This requires to continually learn new things and be updated with the latest research.",
+                    "Ownership. Don't expect from others to build a plan for you... Work on your long term goals and identify which are the outputs that will help you to achieve the goal and work backwards from there. Processes, mechanisms and finally the inputs. Yo must take ownership of it along the entire process.",
+                    "Enjoy what you do"
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "front": {
+                "name": "Keith Homewood",
+                "role": "Senior SA Manager, EMEA",
+                "type": "quote",
+                "quote": "\"Everything fails, all of the time.\"– Werner Vogels"
+            },
+            "back": {
+                "lesson": "One lesson I learned is not to assume even when you are pretty sure of something. Question everything upfront.",
+                "advice": [
+                    "Treat yourself like your own customer and work backwards with yourself. Imagine yourself in some future (1-5y from now) and you are happy in your career, ask yourself why that version of you is happy.  backwards away from what makes you happy is terrible.",
+                    "Never stop learning but remember it isn't just technology. Pay attention to industry trends, soft skill development, and about your customers.",
+                    "Remember you can't help anyone else if you don't help yourself and prioritze self-care. It's like on the airplane 'In the event of an emergency put your own mask on before helping others.'"
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "front": {
+                "name": "Tim Peters",
+                "role": "Director WWCS Customer Segments",
+                "type": "quote",
+                "quote": "\"Be the change you want to see in the world.\" - Ghandi"
+            },
+            "back": {
+                "lesson": "Simple is better. In Leadership - clarity of purpose brings teams together. In Design - customers more easily buy, use and brag about a product that is well understood and simple to use.",
+                "advice": [
+                    "Position yourself to be agile and willing to try (and learn from) multiple disciplines across development and field-based roles, thus making yourself available to a broader range of possibilities.",
+                    "Be humble, but strive for greatness. You work with people to get things done no matter the role. Want them to want to work with you (and for you).",
+                    "Earn trust always. Relationships make or break people. Break trust -> break relationship -> compromise your journey."
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "front": {
+                "name": "Stijn Buiter",
+                "role": "Europe North, SUP Sales Leader",
+                "type": "quote",
+                "quote": "\"Focus on long term success, but be willing to make short term adjustments to get there\" - Simon Sinek"
+            },
+            "back": {
+                "lesson": "Focus on the customer and don't be afraid to escalate when truly needed. (if a customer is truly impacted, you'll be amazed how flat this organization can be to do the right thing for the customer)",
+                "advice": [
+                    "Dedicate time to learn and dive deep, don't be afraid to say no, be ready to adapt to change any time",
+                    "Know yourself, your strengths and weaknesses, combine that with the power of saying no/have clear focus areas, based on that prioritize long term success and create short term goals towards that.",
+                    "Trust others, don't do everything yourself. If you lead with that mindset, while creating clear measurable outcomes to inspect, you can be efficient and high performing, while having a strong and loyal team."
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "front": {
+                "name": "Danielle Gorlick",
+                "role": "Director of Benelux AGS",
+                "type": "book",
+                "quote": "📚Legacy: 15 Lessons in Leadership what the All Blacks can teach us about the business of life by James Kerr.",
+                "book": "📚Legacy: 15 Lessons in Leadership what the All Blacks can teach us about the business of life by James Kerr."
+            },
+            "back": {
+                "lesson": "The most important lesson I've learned is that success in technology isn't just about technical skills.",
+                "advice": [
+                    "Make sure that you have a plan working backwards from your North Star where you define the key skills you need to acquire over a specific period of time in order to reach that North star you are aiming for.",
+                    "No matter where you are in your career, in order to be successful in technology I think you need to have a curious mindset with the desire to learn from your peers, team members, thought leaders and customers. The technology space is constantly evolving so having that always on learning mindset will enable you to remain relevant and to add the most value to your teams, customers and partners.",
+                    "Make sure you are developing your soft skills, such as, communication and empathy. This becomes more crucial as you move into leadership roles, as the ability to communicate a clear vision, goals and priorities and leading your team to achieve that mission or goal with the right level of empathy will create clarity for the team, builds trust and encourages collaboration towards a common goal."
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "front": {
+                "name": "Michael Choe",
+                "role": "Director, US Auto & Mfg",
+                "type": "quote",
+                "quote": "\"Identify your problems, but give your Power and Energy to solutions.\" Tony Robbins"
+            },
+            "back": {
+                "lesson": "I've learned that change happens faster than you think and that rate of change is increasing as the years pass. Therefore, when you see a signal, no matter how small it is, it's important to develop an ability to see if that signal is going to turn into something big. This will allow you to be more prepared to capitalize on change.",
+                "advice": [
+                    "First, define what growth means to you. Simple answer is title and org size, but I think it's more impactful to really understand what does growth mean to you at any given time. This could be broader exposure, more visibility, learning new things. In the culture of Amazon, taking a broader view of career growth will pay off for you in the long run.",
+                    "1/ Learn to be a good communicator - to your manager, to your peers, to your customers (internal/external), to your org. 2/ Don't waste too much time fighting gravity. We work for big companies that are always evolving and changing. 3/ Always be curious and never lose your humility as you do that.",
+                    "Strive for self-awareness to become a real authentic leader. Practice being vocally self critical, it will help you earn trust. Learn what Prioritization means to YOU. For me, it was identifying no more than 2-3 no fail missions that I was really convicted on navigating any headwinds to achieve."
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "front": {
+                "name": "Cleber Pereira De Morais",
+                "role": "Managing Director, LATAM",
+                "type": "quote",
+                "quote": "\"I believe that great leaders are build by the incredible people around them\""
+            },
+            "back": {
+                "lesson": "Trust your instincts and believe in your intuition. Most mistake I've made happened when I went against my own perceptions or what I truly believe.",
+                "advice": [
+                    "To focus and continuous learning and adaptability. Network is also key - Building connections within the industry can open doors to new opportunities.",
+                    "Technology is constantly evolving, so I make it a priority to stay curious and open to learn new skills , tools and frameworks.",
+                    "Communication Skills (I studied theater). and Maintain a positive attitude toward any outlook. Challenges will arise, and the most important thing is how you learn from mistakes and use them to grow and propel yourself forward"
+                ]
+            }
+        },
+        {
+            "front": {
+                "id": 116,
+                "name": "Maureen Lonergan",
+                "role": "VP,quote Training & Certification",
+                "quote": "\"Education is the most powerful weapon which you can use to change the world. \" -  Nelson Mandela",
+                "type": "quote"
+            },
+            "back": {
+                "lesson": "Empathy goes a long way when leading teams.",
+                "advice": [
+                    "Prioritize continuous learning throughout your career. Find really good mentors that will help guide you.",
+                    "Staying focused on the things that will have the biggest impact for customers. Spend time learning everyday. Don't be afraid of failure.",
+                    "Work hard, stay focused, learn everyday and balance the things that matter."
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "front": {
+                "name": "Anonymous",
+                "role": "VP",
+                "type": "quote",
+                "quote": "What would you do if you weren't afraid? And then go do it - Sheryl Sandberg"
+            },
+            "back": {
+                "lesson": "Build your resiliency. Hard work doesn't always guarantee success. My journey taught me to diversify my efforts across multiple projects, skills, and initiatives. This approach transforms setbacks into mere obstacles, ensuring one failure doesn't define my career. Resilience is about being adaptable and prepared for change.",
+                "advice": [
+                    "Networking. Actively attend industry conferences and volunteer. Forge genuine connections by aiding others. You'll gain insights and grow by uplifting those around you.",
+                    "Think Long-term: Define your biography for the next five years and methodically work towards it. Embrace setbacks as learning opportunities. Stay patient and adaptable to shifts, focusing on your long-term goals",
+                    "Expand Your Influence: Produce content within your field to stay current and demonstrate your expertise. This way you boost your adaptability and visibility, opening doors to new opportunities and growth."
+                ]
+            }
+        },
+        {
+            "front": {
+                "id": 118,
+                "name": "Miriam McLemore",
+                "role": "Director, Enterprise Strategy",
+                "quote": "📚How Forward-Thinking Leaders are Redefining Business Resilience",
+                "type": "book"
+            },
+            "back": {
+                "lesson": "Zamira - complied",
+                "advice": [
+                    "The importance of building networks and Identifying gaps and opportunities where I can add value",
+                    "Insights on pushing through imposter syndrome and taking on challenges without hesitation",
+                    "As women, we sometimes feel we need to be fully qualified before taking on new challenges, but that's not true. You have to be willing to take risks and not wait on the sidelines"
                 ]
             }
         }
